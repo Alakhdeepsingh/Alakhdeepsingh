@@ -1,7 +1,6 @@
 <img src="https://github.com/Alakhdeepsingh/Alakhdeepsingh/blob/master/Hi.gif" alt="alt text" width="100" height="100" />
 <img src="https://github.com/rahul799/rahul799/blob/master/Hi.gif" alt="alt text" width="100" height="100" />
 
-
 ### Hi there 👋 Alakhdeep singh Here..
 
 <div align="center">
@@ -35,6 +34,7 @@
   <img align="left" alt="Alakhdeep singh | Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
 </a>
   
+  [![Linkedin Badge](https://img.shields.io/badge/-samarjitmahi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/samarjit-mahi/)](https://www.linkedin.com/in/samarjit-mahi/) [![Twitter Badge](https://img.shields.io/badge/-@hisamarmahi-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/hisamarmahi)](https://twitter.com/hisamarmahi) [![Facebook Badge](https://img.shields.io/badge/-@hisamarmahi-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://https://www.facebook.com/alakhdeep.singh/)](https://www.facebook.com/hisamarmahi/) 
   
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Alakhdeepsingh.Alakhdeepsingh)
