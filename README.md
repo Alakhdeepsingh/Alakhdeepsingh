@@ -41,8 +41,7 @@
 - ⚡ Fun fact: I am a foody and comedian too.
 
 ### My Experiences 🙌
--[Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com) - Conducted webinar on Git & Github
-
+-[Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com) - Conducted webinar on Git & Github. 
 -[IBM ZAmbassador](https://zambassador.com/) - Conducted webinar on Master the Mainframe (MTM)
 
 ## My Skill Set  
