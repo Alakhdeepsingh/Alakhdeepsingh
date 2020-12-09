@@ -36,7 +36,7 @@
 
 - 🔭 I’m currently doing Datastructure , Algorithms & Competitive Programming  
 - 🌱 I’m Full Stack Web Developer .
--    I'm https://studentambassadors.microsoft.com/ in which i have conducted events 
+-     I'm [Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com) - Conducted webinar on Git & Github
 - 📫 How to reach me: [Mail](mailto:alakhdeepsingh773@gmail.com), [LinkedIn](https://www.linkedin.com/in/alakhdeepsingh/).
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I am a foody and comedian too.
