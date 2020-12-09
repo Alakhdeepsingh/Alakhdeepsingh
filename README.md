@@ -67,5 +67,5 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
 </div></td><td valign="top" width="33%">
 
-![Rahul's github stats](https://github-readme-stats.vercel.app/api?username=rahul799&show_icons=true&hide_border=true)
+![Rahul's github stats](https://github-readme-stats.vercel.app/api?username=Alakhdeepsinghshow_icons=true&hide_border=true)
 
