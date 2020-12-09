@@ -30,7 +30,7 @@
   
   
 
-![](https://visitor-badge.glitch.me/badge?page_id=rahul799.rahul799)
+![](https://visitor-badge.glitch.me/badge?page_id=Alakhdeepsingh.Alakhdeepsingh)
 
 <br />
 
