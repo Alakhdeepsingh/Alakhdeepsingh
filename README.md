@@ -4,7 +4,7 @@
 
 <br/>
 <a href="https://alakhdeepsingh773@gmail.com">
-  <img align="left" alt="Alakhdeep singh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" alt="Alakhdeep singh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/email.svg" />
 </a>
 <a href="https://www.linkedin.com/in/alakhdeepsingh/">
   <img align="left" alt="Alakhdeep singh's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
