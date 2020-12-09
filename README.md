@@ -9,6 +9,9 @@
 <a href="https://www.linkedin.com/in/alakhdeepsingh/">
   <img align="left" alt="Alakhdeep singh's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+<a href="https://<a href="https://www.facebook.com/alakhdeep.singh/">
+  <img align="left" alt="Alakhdeep singh's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
 <a href="https://leetcode.com/alakhdeepsingh773/">
   <img align="left" alt="Alakhdeep singh's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
@@ -28,12 +31,11 @@
 
 <br />
 
-- 🔭 I’m currently working on CI/CD pipelines and deploying microserivces over GKE
-- 🌱 I’m currently learning flutter
-- 💬 Ask me about **Software Development, DevOps and Data Science**
-- 📫 How to reach me: [Mail](mailto:rahulagrawal799110@gmail.com), [LinkedIn](https://www.linkedin.com/in/rahul-agrawal-0958a416a).
+- 🔭 I’m currently doing Datastructure , Algorithms & Competitive Programming  
+- 🌱 I’m Full Stack Web Developer .
+- 📫 How to reach me: [Mail](mailto:alakhdeepsingh773@gmail.com), [LinkedIn](https://www.linkedin.com/in/alakhdeepsingh/).
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I am a Geologist too.
+- ⚡ Fun fact: I am a foody and comedian too.
 
 ![Rahul's github stats](https://github-readme-stats.vercel.app/api?username=rahul799&show_icons=true&hide_border=true)
 
