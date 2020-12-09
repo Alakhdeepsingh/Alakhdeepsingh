@@ -36,6 +36,7 @@
 
 - 🔭 I’m currently doing Datastructure , Algorithms & Competitive Programming  
 - 🌱 I’m Full Stack Web Developer .
+-    I'm https://studentambassadors.microsoft.com/ in which i have conducted events 
 - 📫 How to reach me: [Mail](mailto:alakhdeepsingh773@gmail.com), [LinkedIn](https://www.linkedin.com/in/alakhdeepsingh/).
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I am a foody and comedian too.
@@ -67,5 +68,5 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
 </div></td><td valign="top" width="33%">
 
-![Alakhdeep singh's github stats](https://github-readme-stats.vercel.app/api?username=Alakhdeepsinghshow_icons=true&hide_border=true)
+![Alakhdeep singh's github stats](https://github-readme-stats.vercel.app/api?username=Alakhdeepsingh&show_icons=true&hide_border=true)
 
