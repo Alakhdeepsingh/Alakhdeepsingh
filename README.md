@@ -80,6 +80,15 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
 </div></td><td valign="top" width="33%">
+  
+  ### Cloud Computing Platform
+  
+ <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google cloud platform-original.svg" alt="C++" height="50" />  
+</div></td><td valign="top" width="33%">
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
+</div></td><td valign="top" width="33%">
+  
+  
 
 ![Alakhdeep singh's github stats](https://github-readme-stats.vercel.app/api?username=Alakhdeepsingh&show_icons=true&hide_border=true)
 
