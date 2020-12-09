@@ -3,11 +3,14 @@
 ### Hi there 👋 Alakhdeep singh Here..
 
 <br/>
-<a href="https://twitter.com/AlakhdeepS">
-  <img align="left" alt="Alakhdeep singh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a href="https://alakhdeepsingh773@gmail.com">
+  <img align="left" alt="Alakhdeep singh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <a href="https://www.linkedin.com/in/alakhdeepsingh/">
   <img align="left" alt="Alakhdeep singh's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://twitter.com/AlakhdeepS">
+  <img align="left" alt="Alakhdeep singh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://<a href="https://www.facebook.com/alakhdeep.singh/">
   <img align="left" alt="Alakhdeep singh's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
