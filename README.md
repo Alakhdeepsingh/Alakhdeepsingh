@@ -35,7 +35,7 @@
 </a>
                                                                                                                                            
  <a href="https://www.youracclaim.com/badges/ef0eb5e0-a939-4a08-86b6-ba85b29e42f4">
-  <img align="left" alt="acclaim| acclaim" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/acclaim.svg" />
+  <img align="left" alt=" ef0eb5e0-a939-4a08-86b6-ba85b29e42f4 | acclaim" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/acclaim.svg" />
 </a>                                                                                                                                         
                                                                                                                                            
   
