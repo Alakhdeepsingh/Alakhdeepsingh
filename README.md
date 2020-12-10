@@ -33,6 +33,11 @@
   <a href="https://codeforces.com/profile/alakhdeepsingh773">
   <img align="left" alt="Alakhdeep singh | Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
 </a>
+                                                                                                                                           
+ <a href="https://www.youracclaim.com/badges/ef0eb5e0-a939-4a08-86b6-ba85b29e42f4">
+  <img align="left" alt="Alakhdeep singh | acclaim width="22px" src="https://cdnsdelivr.net/npm/simple-icons@v3/icons/acclaim.svg"/>
+</a>                                                                                                                                         
+                                                                                                                                           
   
   [![Linkedin Badge](https://img.shields.io/badge/-alakhdeepsingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/samarjit-mahi/)](https://www.linkedin.com/in/alakhdeepsingh/) [![Twitter Badge](https://img.shields.io/badge/-@AlakhdeepS-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/hisamarmahi)](https://twitter.com/hisamarmahi) [![Facebook Badge](https://img.shields.io/badge/-@alakhdeep.singh-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://https://www.facebook.com/alakhdeep.singh/)](https://www.facebook.com/hisamarmahi/)  [![Leetcode Badge](https://img.shields.io/badge/-@alakhdeepsingh773-blue?style=flat-square&logo=Leetcode&logoColor=white&link=https://leetcode.com/alakhdeepsingh773/)]
   
