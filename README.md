@@ -85,8 +85,9 @@
   
   ### Cloud Computing Platform
   
- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/googlecloudplatform-original.svg" alt="googlecloudplatform" height="50" />  
+ <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gcp-original.svg" alt="gcp" height="50" />  
 </div></td><td valign="top" width="33%">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/gcp.svg" alt="gcp" style="vertical-align:top; margin:4px">
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
 </div></td><td valign="top" width="33%">
   
