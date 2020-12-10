@@ -1,5 +1,4 @@
-<img src="https://github.com/Alakhdeepsingh/Alakhdeepsingh/main/Hi.gif" alt="alt text" width="100" height="100" />
-<img src="https://github.com/rahul799/rahul799/blob/master/Hi.gif" alt="alt text" width="100" height="100" />
+<img src="https://github.com/Alakhdeepsingh/Alakhdeepsingh/blob/main/Hi.gif" alt="alt text" width="100" height="100" />
 ### Hi there 👋 Alakhdeep singh Here..
 
 
