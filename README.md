@@ -34,7 +34,7 @@
   <img align="left" alt="Alakhdeep singh | Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
 </a>
   
-  [![Linkedin Badge](https://img.shields.io/badge/-alakhdeepsingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/samarjit-mahi/)](https://www.linkedin.com/in/alakhdeepsingh/) [![Twitter Badge](https://img.shields.io/badge/-@AlakhdeepS-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/hisamarmahi)](https://twitter.com/hisamarmahi) [![Facebook Badge](https://img.shields.io/badge/-@alakhdeep.singh-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://https://www.facebook.com/alakhdeep.singh/)](https://www.facebook.com/hisamarmahi/) 
+  [![Linkedin Badge](https://img.shields.io/badge/-alakhdeepsingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/samarjit-mahi/)](https://www.linkedin.com/in/alakhdeepsingh/) [![Twitter Badge](https://img.shields.io/badge/-@AlakhdeepS-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/hisamarmahi)](https://twitter.com/hisamarmahi) [![Facebook Badge](https://img.shields.io/badge/-@alakhdeep.singh-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://https://www.facebook.com/alakhdeep.singh/)](https://www.facebook.com/hisamarmahi/)  [![Leetcode](https://img.shields.io/badge/-alakhdeepsingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://leetcode.com/alakhdeepsingh773/)]
   
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Alakhdeepsingh.Alakhdeepsingh)
