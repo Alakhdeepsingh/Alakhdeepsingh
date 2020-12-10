@@ -1,5 +1,7 @@
-<img src="https://github.com/Alakhdeepsingh/Alakhdeepsingh/blob/master/Hi.gif" alt="alt text" width="100" height="100" />
+<img src="https://github.com/Alakhdeepsingh/Alakhdeepsingh/Hi.gif" alt="alt text" width="100" height="100" />
 ### Hi there 👋 Alakhdeep singh Here..
+
+
 
 <div align="center">
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Alakhdeep singh | Competitive Programmer |💻 Full Stack Web Developer | 🛸 India 
