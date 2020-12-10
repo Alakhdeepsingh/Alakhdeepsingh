@@ -1,6 +1,6 @@
 <img src="https://github.com/Alakhdeepsingh/Alakhdeepsingh/blob/main/Hi.gif" alt="alt text" width="100" height="100" />
 
-**Hi there 👋 Alakhdeep singh Here.. **
+### Hi there 👋 Alakhdeep singh Here..
 
 
 
