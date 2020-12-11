@@ -49,7 +49,7 @@
 - 💻  I am passionate about Competitive Programming , Web Dev & I enjoy learning new things. </br>
 - 🔭 I’m currently doing Datastructures , Algorithms & Competitive Programming  
 - 🌱 I’m Full Stack Web Developer .
-- 📫 How to reach me: [Mail](mailto:alakhdeepsingh773@gmail.com), [LinkedIn](https://www.linkedin.com/in/alakhdeepsingh/).
+- 📫 How to reach me: [Mail](mailto:alakhdeepsingh773@gmail.com), [LinkedIn](https://www.linkedin.com/in/alakhdeepsingh/), [Twitter](https://twitter.com/AlakhdeepS)
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I am a foody and comedian too.
 
