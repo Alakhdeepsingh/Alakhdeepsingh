@@ -70,7 +70,15 @@
 <div align="center"> 
 <img style="margin: 10px" src="https://github.com/Alakhdeepsingh/Alakhdeepsingh/blob/main/gcp.png" alt="gcp" height="50" />  
   </div></td></tr>
+  <tr>
+  <td>
+   <td valign="top" width="33%"> 
+     
+  ![Alakhdeepsingh's github stats](https://github-readme-stats.vercel.app/api?username=Alakhdeepsingh&show_icons=true&theme=radical) 
+  
+  </td>
+  </tr>
 </table>
-![Alakhdeepsingh's github stats](https://github-readme-stats.vercel.app/api?username=Alakhdeepsingh&show_icons=true&theme=radical) 
+
 
 
