@@ -12,7 +12,6 @@
 <br/>
    
   [![Mail Badge](https://img.shields.io/badge/-@alakhdeepsingh-blue?style=flat-square&logo=Mail&logoColor=white&link=mailto:alakhdeepsingh773@gmail.com/)](mailto:alakhdeepsingh773@gmail.com)
-  
   [![Linkedin Badge](https://img.shields.io/badge/-@alakhdeepsingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alakhdeepsingh/)](https://www.linkedin.com/in/alakhdeepsingh/)
   [![Twitter Badge](https://img.shields.io/badge/-@AlakhdeepS-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/AlakhdeepS)](https://twitter.com/AlakhdeepS) [![Facebook Badge](https://img.shields.io/badge/-@alakhdeep.singh-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://https://www.facebook.com/alakhdeep.singh/)](https://www.facebook.com/alakhdeep.singh/)  [![Leetcode Badge](https://img.shields.io/badge/-@alakhdeepsingh773-blue?style=flat-square&logo=Leetcode&logoColor=white&link=https://leetcode.com/alakhdeepsingh773/)](https://leetcode.com/alakhdeepsingh773/)
    [![HackerRank](https://img.shields.io/badge/-@alakhdeep-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=hackerrank&logoColor=white&link=https://www.hackerrank.com/alakhdeep)](https://www.hackerrank.com/alakhdeep)
@@ -39,9 +38,6 @@
 -[Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com) - Conducted webinar on Git & Github.                                                             
 -[IBM ZAmbassador](https://zambassador.com/) - Conducted webinar on Master the Mainframe (MTM) tech.
 
-
-
-![Alakhdeep singh's github stats](https://github-readme-stats.vercel.app/api?username=Alakhdeepsingh&show_icons=true&hide_theme=radical)
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -76,3 +72,7 @@
  <br> <img style="margin: 10px" src="https://github.com/Alakhdeepsingh/Alakhdeepsingh/blob/main/gcp.png" alt="gcp" height="50" />    
   </div></td><td valign="top" width="33%"></br> 
 
+
+
+
+![Alakhdeep singh's github stats](https://github-readme-stats.vercel.app/api?username=Alakhdeepsingh&show_icons=true&hide_theme=radical)
