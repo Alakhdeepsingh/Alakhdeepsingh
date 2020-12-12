@@ -74,8 +74,12 @@
 
 
 ![Alakhdeep singh's github stats](https://github-readme-stats.vercel.app/api?username=Alakhdeepsingh&show_icons=true&hide_theme=radical)
+</div></td><td valign="top" width="33%">
+  
+<div align="center"> 
+  
  ### Cloud Computing Platform
  <img style="margin: 10px" src="https://github.com/Alakhdeepsingh/Alakhdeepsingh/blob/main/gcp.png" alt="gcp" height="50" />    
-  
+  </div></td><td valign="top" width="33%">
 
 
