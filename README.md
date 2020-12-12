@@ -46,6 +46,7 @@
   [![Codeforces](https://img.shields.io/badge/-@alakhdeepsingh773-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=codeforces&logoColor=white&link=https://codeforces.com/profile/alakhdeepsingh773)](https://codeforces.com/profile/alakhdeepsingh773)
   
   
+   [![Codechef](https://img.shields.io/badge/-@alakhdeep2222-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=hackerrank&logoColor=white&link=https://www.codechef.com/users/alakhdeep2222)](https://www.codechef.com/users/alakhdeep2222)
   
   
   
