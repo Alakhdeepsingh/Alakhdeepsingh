@@ -36,7 +36,7 @@
 </a>
                                                                                                                                            
   
-  [![Linkedin Badge](https://img.shields.io/badge/-@alakhdeepsingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alakhdeepsingh/)]
+  [![Linkedin Badge](https://img.shields.io/badge/-@alakhdeepsingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alakhdeepsingh/)](https://www.linkedin.com/in/alakhdeepsingh/)
   [![Twitter Badge](https://img.shields.io/badge/-@AlakhdeepS-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/AlakhdeepS)](https://twitter.com/AlakhdeepS) [![Facebook Badge](https://img.shields.io/badge/-@alakhdeep.singh-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://https://www.facebook.com/alakhdeep.singh/)](https://www.facebook.com/alakhdeep.singh/)  [![Leetcode Badge](https://img.shields.io/badge/-@alakhdeepsingh773-blue?style=flat-square&logo=Leetcode&logoColor=white&link=https://leetcode.com/alakhdeepsingh773/)]
   
   [![Codeforces](https://img.shields.io/badge/-@alakhdeepsingh773-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=codeforces&logoColor=white&link=https://codeforces.com/profile/alakhdeepsingh773)]
