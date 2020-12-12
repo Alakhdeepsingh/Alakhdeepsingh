@@ -79,7 +79,6 @@
 <div align="center"> 
   
  ### Cloud Computing Platform
- <img style="margin: 10px" src="https://github.com/Alakhdeepsingh/Alakhdeepsingh/blob/main/gcp.png" alt="gcp" height="50" />    
-  </div></td><td valign="top" width="33%">
-
+ <br> <img style="margin: 10px" src="https://github.com/Alakhdeepsingh/Alakhdeepsingh/blob/main/gcp.png" alt="gcp" height="50" />    
+  </div></td><td valign="top" width="33%"></br> 
 
