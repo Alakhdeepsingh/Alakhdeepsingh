@@ -37,6 +37,10 @@
 -[Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com) - Conducted webinar on Git & Github.                                                             
 -[IBM ZAmbassador](https://zambassador.com/) - Conducted webinar on Master the Mainframe (MTM) tech.
 
+
+
+![Alakhdeep singh's github stats](https://github-readme-stats.vercel.app/api?username=Alakhdeepsingh&show_icons=true&hide_theme=radical)
+
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
