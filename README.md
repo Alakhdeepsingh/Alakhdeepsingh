@@ -10,8 +10,7 @@
 </div>
 
 <br/>
-  [![Mail Badge]](mailto:alakhdeepsingh773@gmail.com)
-  
+   
   [![Mail Badge](https://img.shields.io/badge/-@alakhdeepsingh-blue?style=flat-square&logo=Mail&logoColor=white&link=https://www.linkedin.com/in/alakhdeepsingh/)](mailto:alakhdeepsingh773@gmail.com)
   
   [![Linkedin Badge](https://img.shields.io/badge/-@alakhdeepsingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alakhdeepsingh/)](https://www.linkedin.com/in/alakhdeepsingh/)
