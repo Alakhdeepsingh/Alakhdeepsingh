@@ -67,8 +67,6 @@
 
   
 <div align="center"> 
-![Alakhdeep singh's github stats](https://github-readme-stats.vercel.app/api?username=Alakhdeepsingh&show_icons=true&hide_border=true)
-</div></td><td valign="top" width="33%">
 
 ![Samarjjt's github stats](https://github-readme-stats.vercel.app/api?username=samarjiit&show_icons=true&theme=radical)
 
