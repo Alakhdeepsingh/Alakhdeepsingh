@@ -68,8 +68,6 @@
   
 <div align="center"> 
 
-![Samarjjt's github stats](https://github-readme-stats.vercel.app/api?username=samarjiit&show_icons=true&theme=radical)
-
 
 ![Alakhdeep singh's github stats](https://github-readme-stats.vercel.app/api?username=Alakhdeepsingh&show_icons=true&hide_theme=radical)
  ### Cloud Computing Platform
