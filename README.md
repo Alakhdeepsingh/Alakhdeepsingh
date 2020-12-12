@@ -10,42 +10,11 @@
 </div>
 
 <br/>
-<a href="https://alakhdeepsingh773@gmail.com">
-  <img align="left" alt="Alakhdeep singh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-<a href="https://www.linkedin.com/in/alakhdeepsingh/">
-  <img align="left" alt="Alakhdeep singh's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://twitter.com/AlakhdeepS">
-  <img align="left" alt="Alakhdeep singh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://<a href="https://www.facebook.com/alakhdeep.singh/">
-  <img align="left" alt="Alakhdeep singh's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="https://leetcode.com/alakhdeepsingh773/">
-  <img align="left" alt="Alakhdeep singh's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-</a>
-<a href="https://www.hackerrank.com/alakhdeep">
-  <img align="left" alt="Alakhdeep singh | Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
-</a>
-<a href="https://www.codechef.com/users/alakhdeep2222">
-  <img align="left" alt="Alakhdeep singh | Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
-</a>
-  <a href="https://codeforces.com/profile/alakhdeepsingh773">
-  <img align="left" alt="Alakhdeep singh | Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
-</a>
-                                                                                                                                           
-  
+ [![Gmail Badge](https://img.shields.io/badge/-@alakhdeepsingh773-blue?style=flat-square&logo=Linkedin&logoColor=white&link=alakhdeepsingh773@gmail.com)](alakhdeepsingh773@gmail.com)
   [![Linkedin Badge](https://img.shields.io/badge/-@alakhdeepsingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alakhdeepsingh/)](https://www.linkedin.com/in/alakhdeepsingh/)
   [![Twitter Badge](https://img.shields.io/badge/-@AlakhdeepS-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/AlakhdeepS)](https://twitter.com/AlakhdeepS) [![Facebook Badge](https://img.shields.io/badge/-@alakhdeep.singh-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://https://www.facebook.com/alakhdeep.singh/)](https://www.facebook.com/alakhdeep.singh/)  [![Leetcode Badge](https://img.shields.io/badge/-@alakhdeepsingh773-blue?style=flat-square&logo=Leetcode&logoColor=white&link=https://leetcode.com/alakhdeepsingh773/)](https://leetcode.com/alakhdeepsingh773/)
-  
    [![HackerRank](https://img.shields.io/badge/-@alakhdeep-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=hackerrank&logoColor=white&link=https://www.hackerrank.com/alakhdeep)](https://www.hackerrank.com/alakhdeep)
-  
-  
-  
   [![Codeforces](https://img.shields.io/badge/-@alakhdeepsingh773-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=codeforces&logoColor=white&link=https://codeforces.com/profile/alakhdeepsingh773)](https://codeforces.com/profile/alakhdeepsingh773)
-  
-  
    [![Codechef](https://img.shields.io/badge/-@alakhdeep2222-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=hackerrank&logoColor=white&link=https://www.codechef.com/users/alakhdeep2222)](https://www.codechef.com/users/alakhdeep2222)
   
   
