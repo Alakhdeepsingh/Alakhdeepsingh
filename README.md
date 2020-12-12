@@ -68,9 +68,8 @@
   
 ### Cloud Computing Platform
 <img style="margin: 10px" src="https://github.com/Alakhdeepsingh/Alakhdeepsingh/blob/main/gcp.png" alt="gcp" height="50" />  
-</td>
+</td></tr>
 <tr> 
-  
   ![Alakhdeepsingh's github stats](https://github-readme-stats.vercel.app/api?username=Alakhdeepsingh&show_icons=true&theme=radical) </tr>
 </table>
 <div align="center"> 
