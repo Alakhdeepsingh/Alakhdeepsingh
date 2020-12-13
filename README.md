@@ -47,12 +47,12 @@
 <img style="margin: 10px" src="https://github.com/Alakhdeepsingh/Images/blob/main/react.png" alt="React" height="50" />  
 <img style="margin: 10px" src="https://github.com/Alakhdeepsingh/Images/blob/main/css%203.png" alt="CSS3" height="50" />  
 <img style="margin: 10px" src="https://github.com/Alakhdeepsingh/Images/blob/main/html5.png" alt="HTML5" height="50" />   
-<img style="margin: 10px" srx="https://github.com/Alakhdeepsingh/Images/blob/main/javsscript.png" alt="JavaScript" height="50" />   
+<img style="margin: 10px" src="https://github.com/Alakhdeepsingh/Images/blob/main/javascript.png" alt="JavaScript" height="50" />   
 </div></td><td valign="top" width="33%">
 
 ### Backend  
 <div align="center">  
-<img style="margin: 10px" src="https://github.com/Alakhdeepsingh/Images/blob/main/javsscript.png" alt="JavaScript" height="50" />    
+<img style="margin: 10px" src="https://github.com/Alakhdeepsingh/Images/blob/main/javascript.png" alt="JavaScript" height="50" />    
 <img style="margin: 10px" src="https://github.com/Alakhdeepsingh/Images/blob/main/php.png" alt="PHP" height="50" />  
 <img style="margin: 10px" src="https://github.com/Alakhdeepsingh/Images/blob/main/mongodb.png" alt="MongoDB" height="50" />  
 <img style="margin: 10px" src="https://github.com/Alakhdeepsingh/Images/blob/main/node.js" alt="Node.js" height="50" />  
