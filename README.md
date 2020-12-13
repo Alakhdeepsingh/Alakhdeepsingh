@@ -48,17 +48,17 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
 <img style="margin: 10px" src="https://github.com/Alakhdeepsingh/Images/blob/main/css%203.png" alt="CSS3" height="50" />  
 <img style="margin: 10px" src="https://github.com/Alakhdeepsingh/Images/blob/main/html5.png" alt="HTML5" height="50" />   
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />   
+<img style="margin: 10px"https://github.com/Alakhdeepsingh/Images/blob/main/javsscript.png" alt="JavaScript" height="50" />   
 </div></td><td valign="top" width="33%">
 
 ### Backend  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />    
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />  
+<img style="margin: 10px" src="https://github.com/Alakhdeepsingh/Images/blob/main/php.png" alt="PHP" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
+<img style="margin: 10px" src="https://github.com/Alakhdeepsingh/Images/blob/main/python.png" alt="Python" height="50" />  
 <img style="margin: 10px" src="https://github.com/Alakhdeepsingh/Images/blob/main/express%20js.png" alt="Express.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />  
