@@ -19,7 +19,7 @@
    [![Codechef](https://img.shields.io/badge/-@alakhdeep2222-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=Codechef&logoColor=white&link=https://www.codechef.com/users/alakhdeep2222)](https://www.codechef.com/users/alakhdeep2222)
    
   [![Qwiklabs](https://img.shields.io/badge/-@f75a00c6-7664-49bd-84d7-f19e8b299b0b-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=Qwiklabs&logoColor=white&link= 
- [(https://www.qwiklabs.com/public_profiles/f75a00c6-7664-49bd-84d7-f19e8b299b0b)](https://www.qwiklabs.com/public_profiles/f75a00c6-7664-49bd-84d7-f19e8b299b0b)
+ https://www.qwiklabs.com/public_profiles/f75a00c6-7664-49bd-84d7-f19e8b299b0b)](https://www.qwiklabs.com/public_profiles/f75a00c6-7664-49bd-84d7-f19e8b299b0b)
   
   
 
