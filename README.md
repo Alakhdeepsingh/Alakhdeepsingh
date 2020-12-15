@@ -11,7 +11,7 @@
 
 <br/>
    
-  [![Mail Badge](https://img.shields.io/badge/-@alakhdeepsingh-red?style=flat-square&logo=Mail&logoColor=white&link=mailto:alakhdeepsingh773@gmail.com/)](mailto:alakhdeepsingh773@gmail.com)
+  [![Mail Badge](https://img.shields.io/badge/-@alakhdeepsingh-FF0000?style=flat-square&logo=Mail&logoColor=white&link=mailto:alakhdeepsingh773@gmail.com/)](mailto:alakhdeepsingh773@gmail.com)
   [![Linkedin Badge](https://img.shields.io/badge/-@alakhdeepsingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alakhdeepsingh/)](https://www.linkedin.com/in/alakhdeepsingh/)
   [![Twitter Badge](https://img.shields.io/badge/-@AlakhdeepS-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/AlakhdeepS)](https://twitter.com/AlakhdeepS) 
   [![Leetcode Badge](https://img.shields.io/badge/-@alakhdeepsingh773-9400D3?style=flat-square&logo=Leetcode&logoColor=white&link=https://leetcode.com/alakhdeepsingh773/)](https://leetcode.com/alakhdeepsingh773/)
