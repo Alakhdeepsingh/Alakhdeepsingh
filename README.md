@@ -16,8 +16,8 @@
   [![Twitter Badge](https://img.shields.io/badge/-@AlakhdeepS-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/AlakhdeepS)](https://twitter.com/AlakhdeepS) 
   [![Leetcode Badge](https://img.shields.io/badge/-@alakhdeepsingh773-FF4500?style=flat-square&logo=Leetcode&logoColor=white&link=https://leetcode.com/alakhdeepsingh773/)](https://leetcode.com/alakhdeepsingh773/)
    [![HackerRank](https://img.shields.io/badge/-@alakhdeep-008000?style=flat-square&labelColor=008000&logo=hackerrank&logoColor=white&link=https://www.hackerrank.com/alakhdeep)](https://www.hackerrank.com/alakhdeep)
+      [![Codechef](https://img.shields.io/badge/-@alakhdeep2222-A52A2A?style=flat-square&labelColor=A52A2A&logo=Codechef&logoColor=white&link=https://www.codechef.com/users/alakhdeep2222)](https://www.codechef.com/users/alakhdeep2222)
   [![Codeforces](https://img.shields.io/badge/-@alakhdeepsingh773-FFD700?style=flat-square&labelColor=FFD700&logo=codeforces&logoColor=white&link=https://codeforces.com/profile/alakhdeepsingh773)](https://codeforces.com/profile/alakhdeepsingh773)
-   [![Codechef](https://img.shields.io/badge/-@alakhdeep2222-A52A2A?style=flat-square&labelColor=A52A2A&logo=Codechef&logoColor=white&link=https://www.codechef.com/users/alakhdeep2222)](https://www.codechef.com/users/alakhdeep2222)
     [![Facebook Badge](https://img.shields.io/badge/-@alakhdeep.singh-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://https://www.facebook.com/alakhdeep.singh/)](https://www.facebook.com/alakhdeep.singh/)
    
    
