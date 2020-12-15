@@ -13,7 +13,8 @@
    
   [![Mail Badge](https://img.shields.io/badge/-@alakhdeepsingh-red?style=flat-square&logo=Mail&logoColor=white&link=mailto:alakhdeepsingh773@gmail.com/)](mailto:alakhdeepsingh773@gmail.com)
   [![Linkedin Badge](https://img.shields.io/badge/-@alakhdeepsingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alakhdeepsingh/)](https://www.linkedin.com/in/alakhdeepsingh/)
-  [![Twitter Badge](https://img.shields.io/badge/-@AlakhdeepS-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/AlakhdeepS)](https://twitter.com/AlakhdeepS)  [![Leetcode Badge](https://img.shields.io/badge/-@alakhdeepsingh773-orange?style=flat-square&logo=Leetcode&logoColor=white&link=https://leetcode.com/alakhdeepsingh773/)](https://leetcode.com/alakhdeepsingh773/)
+  [![Twitter Badge](https://img.shields.io/badge/-@AlakhdeepS-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/AlakhdeepS)](https://twitter.com/AlakhdeepS) 
+  [![Leetcode Badge](https://img.shields.io/badge/-@alakhdeepsingh773-dark violet?style=flat-square&logo=Leetcode&logoColor=white&link=https://leetcode.com/alakhdeepsingh773/)](https://leetcode.com/alakhdeepsingh773/)
    [![HackerRank](https://img.shields.io/badge/-@alakhdeep-008000?style=flat-square&labelColor=008000&logo=hackerrank&logoColor=white&link=https://www.hackerrank.com/alakhdeep)](https://www.hackerrank.com/alakhdeep)
   [![Codeforces](https://img.shields.io/badge/-@alakhdeepsingh773-FF1493?style=flat-square&labelColor=FF1493&logo=codeforces&logoColor=white&link=https://codeforces.com/profile/alakhdeepsingh773)](https://codeforces.com/profile/alakhdeepsingh773)
    [![Codechef](https://img.shields.io/badge/-@alakhdeep2222-FFFF00?style=flat-square&labelColor=FFFF00&logo=Codechef&logoColor=white&link=https://www.codechef.com/users/alakhdeep2222)](https://www.codechef.com/users/alakhdeep2222)
