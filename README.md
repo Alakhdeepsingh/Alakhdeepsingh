@@ -17,10 +17,6 @@
    [![HackerRank](https://img.shields.io/badge/-@alakhdeep-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=hackerrank&logoColor=white&link=https://www.hackerrank.com/alakhdeep)](https://www.hackerrank.com/alakhdeep)
   [![Codeforces](https://img.shields.io/badge/-@alakhdeepsingh773-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=codeforces&logoColor=white&link=https://codeforces.com/profile/alakhdeepsingh773)](https://codeforces.com/profile/alakhdeepsingh773)
    [![Codechef](https://img.shields.io/badge/-@alakhdeep2222-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=Codechef&logoColor=white&link=https://www.codechef.com/users/alakhdeep2222)](https://www.codechef.com/users/alakhdeep2222)
-  [![Qwiklabs](https://img.shields.io/badge/-@f75a00c6-7664-49bd-84d7-f19e8b299b0b-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=Qwiklabs&logoColor=white&link=https://www.qwiklabs.com/public_profiles/f75a00c6-7664-49bd-84d7-f19e8b299b0b)](https://www.qwiklabs.com/public_profiles/f75a00c6-7664-49bd-84d7-f19e8b299b0b)
-  [![Acclaim](https://img.shields.io/badge/-@alakhdeep-singh/badges-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=Acclaim&logoColor=white&link=https://www.youracclaim.com/users/alakhdeep-singh/badges)](https://www.youracclaim.com/users/alakhdeep-singh/badges)
-  [![Quora](https://github.com/Alakhdeepsingh/Images/blob/main/quora.png-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=Quora&logoColor=white&link=https://github.com/Alakhdeepsingh/Images/blob/main/quora.png)](https://www.quora.com/profile/Alakhdeep-Singh-1)
-
 ![](https://visitor-badge.glitch.me/badge?page_id=Alakhdeepsingh.Alakhdeepsingh)
 
 <br />
