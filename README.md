@@ -19,6 +19,8 @@
    [![Codechef](https://img.shields.io/badge/-@alakhdeep2222-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=Codechef&logoColor=white&link=https://www.codechef.com/users/alakhdeep2222)](https://www.codechef.com/users/alakhdeep2222)
 ![](https://visitor-badge.glitch.me/badge?page_id=Alakhdeepsingh.Alakhdeepsingh)
 
+ [![Quora](https://img.shields.io/badge/Quora-quora-red-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=Quora&logoColor=white&link=https://github.com/Alakhdeepsingh/Images/blob/main/quora.png)](https://www.quora.com/profile/Alakhdeep-Singh-1)
+https://img.shields.io/badge/Quora-quora-red
 <br />
 
 ### About Me 🚀
