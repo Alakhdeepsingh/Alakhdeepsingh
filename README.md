@@ -26,6 +26,9 @@
 <br />
 
 ### About Me 🚀
+
+<img src='https://media.tenor.com/images/ccae3320ab522c1d09e041f1f7ffea74/tenor.gif' align='right'>
+
 - 🎓 I’m Competitive Programmer , Open-Source enthusiast & a junior pursuing my Bachelors in Information Technology Engineering. </br>
 - 💻  I am passionate about Competitive Programming , Web Dev & I enjoy learning new things. </br>
 - 🔭 I’m currently doing Datastructures , Algorithms & Competitive Programming  
