@@ -26,7 +26,7 @@
 ### About Me 🚀
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="240" height="140" />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="230" height="140" />
 
 
 - 🎓 I’m Competitive Programmer , Open-Source enthusiast & a junior pursuing my Bachelors in Information Technology Engineering. </br>
