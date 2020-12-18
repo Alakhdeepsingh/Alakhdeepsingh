@@ -20,13 +20,14 @@
   [![Codeforces](https://img.shields.io/badge/-@alakhdeepsingh773-FFD700?style=flat-square&labelColor=FFD700&logo=codeforces&logoColor=white&link=https://codeforces.com/profile/alakhdeepsingh773)](https://codeforces.com/profile/alakhdeepsingh773)
    
 ![](https://visitor-badge.glitch.me/badge?page_id=Alakhdeepsingh.Alakhdeepsingh)
+
 [![GitHub followers](https://img.shields.io/github/followers/Alakhdeepsingh.svg?style=social&label=Follow)](https://github.com/Alakhdeepsingh?tab=followers)
 <br />
 
 ### About Me 🚀
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="230" height="140" />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="229" height="140" />
 
 
 - 🎓 I’m Competitive Programmer , Open-Source enthusiast & a junior pursuing my Bachelors in Information Technology Engineering. </br>
@@ -77,6 +78,7 @@
 
 <div align="center">
   
+
 ![Alakhdeepsingh's github stats](https://github-readme-stats.vercel.app/api?username=Alakhdeepsingh&show_icons=true&theme=radical)
 
 </div>
