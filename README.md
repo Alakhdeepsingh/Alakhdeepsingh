@@ -20,7 +20,6 @@
   [![Codeforces](https://img.shields.io/badge/-@alakhdeepsingh773-FFD700?style=flat-square&labelColor=FFD700&logo=codeforces&logoColor=white&link=https://codeforces.com/profile/alakhdeepsingh773)](https://codeforces.com/profile/alakhdeepsingh773)
    
 ![](https://visitor-badge.glitch.me/badge?page_id=Alakhdeepsingh.Alakhdeepsingh)
-
 [![GitHub followers](https://img.shields.io/github/followers/Alakhdeepsingh.svg?style=social&label=Follow)](https://github.com/Alakhdeepsingh?tab=followers)
 <br />
 
@@ -39,8 +38,7 @@
 - ⚡ Fun fact: I am a foody and comedian too.
 
 ### My Experiences 🙌
-1-[Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com) - Conducted webinar on Git & Github.    
-                                                         
+1-[Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com) - Conducted webinar on Git & Github.
 2-[IBM ZAmbassador](https://zambassador.com/) - Conducted webinar on Master the Mainframe (MTM) tech.
 
 
