@@ -41,7 +41,7 @@
 2-[IBM ZAmbassador](https://zambassador.com/) - Conducted webinar on Master the Mainframe (MTM) tech.
 
 
-## My Skill Set  
+## My Skill Sets 
 <table><tr><td valign="top" width="33%">
 
 ### Frontend  
