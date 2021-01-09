@@ -52,9 +52,9 @@
 </div></td><td valign="top" width="33%">
 
 ### Backend  
-<div align="center">  
-<img style="margin: 10px" src="https://github.com/Alakhdeepsingh/Images/blob/main/javascript.png" alt="JavaScript" height="50" />      
+<div align="center">     
 <img style="margin: 10px" src="https://github.com/Alakhdeepsingh/Images/blob/main/mongodb.png" alt="MongoDB" height="50" />  
+<img style="margin: 10px" src="https://github.com/Alakhdeepsingh/Images/blob/main/javascript.png" alt="JavaScript" height="50" />   
 <img style="margin: 10px" src="https://github.com/Alakhdeepsingh/Images/blob/main/node.js" alt="Node.js" height="50" />  
 <img style="margin: 10px" src="https://github.com/Alakhdeepsingh/Images/blob/main/linux.png" alt="Linux" height="50" />  
 <img style="margin: 10px" src="https://github.com/Alakhdeepsingh/Images/blob/main/python.png" alt="Python" height="50" />  
