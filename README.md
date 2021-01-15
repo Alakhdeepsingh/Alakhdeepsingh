@@ -1,5 +1,4 @@
 <img src="https://github.com/Alakhdeepsingh/Alakhdeepsingh/blob/main/Hi.gif" alt="alt text" width="100" height="100" />
-
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Alakhdeep singh!](https://github.com/Alakhdeepsingh)
 
 
