@@ -21,7 +21,7 @@
  
 ![](https://visitor-badge.glitch.me/badge?page_id=Alakhdeepsingh.Alakhdeepsingh)
 [![GitHub followers](https://img.shields.io/github/followers/Alakhdeepsingh.svg?style=social&label=Follow)](https://github.com/Alakhdeepsingh?tab=followers)
-<br />
+<br/>
 
 ### About Me 🚀
 
