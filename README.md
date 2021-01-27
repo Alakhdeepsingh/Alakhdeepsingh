@@ -62,7 +62,6 @@
   
 ### Cloud Computing Platform
 <div align="center"> 
-<img style="margin: 10px" src="https://github.com/Alakhdeepsingh/Alakhdeepsingh/blob/main/gcp.png" alt="gcp" height="50" />  
  <img style="margin: 10px" src="https://github.com/Alakhdeepsingh/Images/blob/main/aws.png" alt="gcp" height="50" />  
 
   </div></td></tr>
