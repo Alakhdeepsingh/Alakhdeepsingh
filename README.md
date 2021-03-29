@@ -32,9 +32,8 @@
 - ⚡ Fun fact: I am a foody and comedian too.
 
 ### My Experiences 🙌
-1-[ @Chegg ]-(Subject Matter Expert - Computer Science) I resolve the doubts by answering the questions of students across the worldwide in Computer Science Subject.
-
-2-[Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com) - Conducted webinar on Git & Github.         
+1-[Chegg]-(Subject Matter Expert - Computer Science) I resolve the doubts by answering the questions of students across the worldwide in Computer Science Subject.               
+2-[Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com) - Conducted webinar on Git & Github.                                                             
 3-[IBM ZAmbassador](https://zambassador.com/) - Conducted webinar on Master the Mainframe (MTM) tech.
 
 
