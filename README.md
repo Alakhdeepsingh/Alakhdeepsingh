@@ -23,7 +23,7 @@
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="229" height="140" />
 
 
-- 🎓 I’m ## Competitive Programmer , Open-Source enthusiast & a junior pursuing my Bachelors in Information Technology Engineering. </br>
+- 🎓 I’m Competitive Programmer , Open-Source enthusiast & a junior pursuing my Bachelors in Information Technology Engineering. </br>
 - 💻  I am passionate about Competitive Programming,Web Dev & I enjoy learning new things. </br>
 - 🔭 I’m currently doing Datastructures , Algorithms & Competitive Programming  
 - 🌱 I’m Full Stack Web Developer .
