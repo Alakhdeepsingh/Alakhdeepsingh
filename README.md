@@ -24,8 +24,8 @@
 
 
 - 🎓 I’m Competitive Programmer , Open-Source enthusiast & a junior pursuing my Bachelors in Information Technology Engineering. </br>
-- 💻  I am passionate about Competitive Programming,Web Dev & I enjoy learning new things. </br>
-- 🔭 I’m currently doing **Datastructures , Algorithms & Competitive Programming**  
+- 💻  I am passionate about Web Dev,Competitive Programming & I enjoy learning new things. </br>
+- 🔭 I’m currently working on **Web Dev Projects**.
 - 🌱 I’m **Full Stack Web Developer** .
 - 📫 How to reach me: [Mail](mailto:alakhdeepsingh773@gmail.com), [LinkedIn](https://www.linkedin.com/in/alakhdeepsingh/)
 - 😄 Pronouns: He/him
