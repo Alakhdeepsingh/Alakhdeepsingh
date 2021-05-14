@@ -12,7 +12,7 @@
    
   [![Mail Badge](https://img.shields.io/badge/-@alakhdeepsingh-FF00FF?style=flat-square&logo=Mail&logoColor=white&link=mailto:alakhdeepsingh773@gmail.com/)](mailto:alakhdeepsingh773@gmail.com)
   [![Linkedin Badge](https://img.shields.io/badge/-@alakhdeepsingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alakhdeepsingh/)](https://www.linkedin.com/in/alakhdeepsingh/)
-  [![Leetcode Badge](https://img.shields.io/badge/-@alakhdeepsingh773-FF4500?style=flat-square&logo=Leetcode&logoColor=white&link=https://leetcode.com/alakhdeepsingh773/)](https://leetcode.com/alakhdeepsingh773/)
+  [![Leetcode Badge](https://img.shields.io/badge/-@alakhdeepsingh-FF4500?style=flat-square&logo=Leetcode&logoColor=white&link=https://leetcode.com/alakhdeepsingh/)](https://leetcode.com/alakhdeepsingh/)
   [![Codeforces](https://img.shields.io/badge/-@alakhdeepsingh773-FFD700?style=flat-square&labelColor=FFD700&logo=codeforces&logoColor=white&link=https://codeforces.com/profile/alakhdeepsingh773)](https://codeforces.com/profile/alakhdeepsingh773)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Alakhdeepsingh.Alakhdeepsingh)[![GitHub followers](https://img.shields.io/github/followers/Alakhdeepsingh.svg?style=social&label=Follow)](https://github.com/Alakhdeepsingh?tab=followers)
