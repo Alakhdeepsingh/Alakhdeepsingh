@@ -26,7 +26,7 @@
 - 🎓 I’m **Open-Source enthusiast** , **Full Stack Web Developer(MERN)** , **Competitive Programmer** & a junior pursuing my Bachelors in Information Technology Engineering. </br>
 - 💻  I am passionate about Web Dev,Competitive Programming & I enjoy learning new things. </br>
 - 🔭 I’m currently working on **Web Dev Projects**.
-- 🌱 I’m **Full Stack Web Developer** .
+- 💬 Ask me about Web app, MERN Stack , Open Source, Linux, Firebase, Azure and more
 - 📫 How to reach me: [Mail](mailto:alakhdeepsingh773@gmail.com), [LinkedIn](https://www.linkedin.com/in/alakhdeepsingh/)
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I am a foody and comedian too.
