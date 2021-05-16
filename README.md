@@ -23,11 +23,11 @@
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="215" />
 
 
-- 🎓 I’m Open-Source enthusiast , Competitive Programmer & a junior pursuing my Bachelors in Information Technology Engineering. </br>
+- 🎓 I’m **Open-Source enthusiast** , **Full Stack Web Developer(MERN)** , **Competitive Programmer** & a junior pursuing my Bachelors in Information Technology Engineering. </br>
 - 💻  I am passionate about Web Dev,Competitive Programming & I enjoy learning new things. </br>
 - 🔭 I’m currently working on **Web Dev Projects**.
 - 🌱 I’m **Full Stack Web Developer** .
-- 📫 How to reach me: [Mail](mailto:alakhdeepsingh773@gmail.com), [LinkedIn](https://www.linkedin.com/in/alakhdeepsingh/)
+- 📫 How to reach me: **[Mail]**(mailto:alakhdeepsingh773@gmail.com), **[LinkedIn]**"(https://www.linkedin.com/in/alakhdeepsingh/)
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I am a foody and comedian too.
 
@@ -44,8 +44,8 @@
 <div align="center">  
 <img style="margin: 10px" src="https://github.com/Alakhdeepsingh/Images/blob/main/react.png" alt="React" height="50" />  
 <img style="margin: 10px" src="https://github.com/Alakhdeepsingh/Images/blob/main/css%203.png" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://github.com/Alakhdeepsingh/Images/blob/main/html5.png" alt="HTML5" height="50" />   
-<img style="margin: 10px" src="https://github.com/Alakhdeepsingh/Images/blob/main/javascript.png" alt="JavaScript" height="70" />   
+<img style="margin: 10px" src="https://github.com/Alakhdeepsingh/Images/blob/main/html5.png" alt="HTML5" height="50" />
+<img style="margin: 10px" src="https://github.com/Alakhdeepsingh/Images/blob/main/javascript.png" alt="JavaScript" height="50" />   
 </div></td><td valign="top" width="33%">
 
 ### Backend  
