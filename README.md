@@ -42,10 +42,10 @@
 
 ### Frontend  
 <div align="center">  
-<img style="margin: 10px" src="https://github.com/Alakhdeepsingh/Images/blob/main/react.png" alt="React" height="60" />  
-<img style="margin: 10px" src="https://github.com/Alakhdeepsingh/Images/blob/main/css%203.png" alt="CSS3" height="60" />  
-<img style="margin: 10px" src="https://github.com/Alakhdeepsingh/Images/blob/main/html5.png" alt="HTML5" height="60" />
-<img style="margin: 10px" src="https://github.com/Alakhdeepsingh/Images/blob/main/javascript.png" alt="JavaScript" height="60" />   
+<img style="margin: 10px" src="https://github.com/Alakhdeepsingh/Images/blob/main/react.png" alt="React" height="70" />  
+<img style="margin: 10px" src="https://github.com/Alakhdeepsingh/Images/blob/main/css%203.png" alt="CSS3" height="70" />  
+<img style="margin: 10px" src="https://github.com/Alakhdeepsingh/Images/blob/main/html5.png" alt="HTML5" height="70" />
+<img style="margin: 10px" src="https://github.com/Alakhdeepsingh/Images/blob/main/javascript.png" alt="JavaScript" height="70" />   
  <img style="margin: 10px" src= "https://github.com/Alakhdeepsingh/Images/blob/main/Bootstraps5.jpg" alt="Bootstrap5" height="70" />
 </div></td><td valign="top" width="33%">
 
