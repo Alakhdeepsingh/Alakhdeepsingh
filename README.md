@@ -53,9 +53,10 @@
 <div align="center"> 
 <img style="margin: 10px" src="https://github.com/Alakhdeepsingh/Images/blob/main/node.js" alt="Node.js" height="60" />  
 <img style="margin: 10px" src="https://github.com/Alakhdeepsingh/Images/blob/main/express%20js.png" alt="Express.js" height="60" />  
+<img style="margin: 10px" src="https://github.com/Alakhdeepsingh/Images/blob/main/mysql.png" alt="Express.js" height="60" />  
 <img style="margin: 10px" src="https://github.com/Alakhdeepsingh/Images/blob/main/mongodb.png" alt="MongoDB" height="60" />     
 <img style="margin: 10px" src="https://github.com/Alakhdeepsingh/Images/blob/main/python.png" alt="Python" height="70" />  
- <img style="margin: 10px" src="https://github.com/Alakhdeepsingh/Images/blob/main/c%2B%2B.png" alt="C++" height="60" />  
+<img style="margin: 10px" src="https://github.com/Alakhdeepsingh/Images/blob/main/c%2B%2B.png" alt="C++" height="60" />  
 <img style="margin: 10px" src="https://github.com/Alakhdeepsingh/Images/blob/main/git.png" alt="Git" height="60" />  
 <img style="margin: 10px" src="https://github.com/Alakhdeepsingh/Images/blob/main/linux.png" alt="Linux" height="60" />  
 </div></td><td valign="top" width="33%">
