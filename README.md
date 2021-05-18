@@ -23,7 +23,7 @@
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="215" />
 
 
-- 🎓 I’m **Open-Source enthusiast** , **Full Stack Web Developer(MERN)** , **Competitive Programmer** & **a junior pursuing my Bachelors in Information Technology Engineering. </br>
+- 🎓 I’m **Open-Source enthusiast** , **Full Stack Web Developer(MERN)** , **Competitive Programmer** & **a junior pursuing my Bachelors in Information Technology Engineering**. </br>
 - 💻  I am passionate about **Web Dev,Competitive Programming & I enjoy learning new things**. </br>
 - 🔭 I’m currently working on **Web Dev Projects**.
 - 💬 Ask me about **Web Dev , MERN Stack , Open Source, Linux, Firebase, Azure and more**
