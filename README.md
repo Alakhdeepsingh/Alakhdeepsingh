@@ -4,7 +4,7 @@
 
 
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 💻 Web Developer | Competitive Programmer | Mentor
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 💻 Full Stack Developer (MERN) | Competitive Programmer | Mentor
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 
@@ -23,10 +23,10 @@
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="215" />
 
 
-- 🎓 I’m Open-Source enthusiast , Web Developer , Competitive Programmer & a junior pursuing my Bachelors in Information Technology Engineering. </br>
+- 🎓 I’m Open-Source enthusiast , Full Stack Web Developer(MERN) , Competitive Programmer & a junior pursuing my Bachelors in Information Technology Engineering. </br>
 - 💻  I am passionate about Web Dev, DevOps , Competitive Programming & I enjoy learning new things. </br>
-- 🔭 I’m currently working on **Web Dev Projects**.
-- 💬 Ask me about Web Dev , Open Source, Linux, and more
+- 🔭 I’m currently working on *Web Dev Projects*.
+- 💬 Ask me about Web Dev , MERN Stack , Open Source, Linux, DevOps, Firebase, Azure and more
 - 📫 How to reach me: [Mail](mailto:alakhdeepsingh773@gmail.com), [LinkedIn](https://www.linkedin.com/in/alakhdeepsingh/)
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I am a foody and comedian too.
@@ -44,7 +44,30 @@
 <div align="center">  
 <img style="margin: 10px" src="https://github.com/Alakhdeepsingh/Images/blob/main/html5.png" alt="HTML5" height="75" />
 <img style="margin: 10px" src="https://github.com/Alakhdeepsingh/Images/blob/main/css%203.png" alt="CSS3" height="75" />  
+<img style="margin: 10px" src="https://github.com/Alakhdeepsingh/Images/blob/main/javascript.png" alt="JavaScript" height="75" />   
+<img style="margin: 10px" src= "https://github.com/Alakhdeepsingh/Images/blob/main/Bootstraps5.jpg" alt="Bootstrap5" height="75" />
+<img style="margin: 10px" src="https://github.com/Alakhdeepsingh/Images/blob/main/react.png" alt="React" height="75" />  
+</div></td><td valign="top" width="33%">
 
+### Backend  
+<div align="center"> 
+<img style="margin: 10px" src="https://github.com/Alakhdeepsingh/Images/blob/main/node.js" alt="Node.js" height="60" />  
+<img style="margin: 10px" src="https://github.com/Alakhdeepsingh/Images/blob/main/express%20js.png" alt="Express.js" height="60" />  
+<img style="margin: 10px" src="https://github.com/Alakhdeepsingh/Images/blob/main/mysql.png" alt="Express.js" height="60" />  
+<img style="margin: 10px" src="https://github.com/Alakhdeepsingh/Images/blob/main/mongodb.png" alt="MongoDB" height="60" />     
+<img style="margin: 10px" src="https://github.com/Alakhdeepsingh/Images/blob/main/python.png" alt="Python" height="70" />  
+<img style="margin: 10px" src="https://github.com/Alakhdeepsingh/Images/blob/main/c%2B%2B.png" alt="C++" height="60" />  
+<img style="margin: 10px" src="https://github.com/Alakhdeepsingh/Images/blob/main/git.png" alt="Git" height="60" />  
+<img style="margin: 10px" src="https://github.com/Alakhdeepsingh/Images/blob/main/linux.png" alt="Linux" height="60" />  
+</div></td><td valign="top" width="33%">
+  
+### Cloud Computing Platform
+<div align="center"> 
+ <img style="margin: 10px" src="https://github.com/Alakhdeepsingh/Images/blob/main/azure.png" alt="azure" height="50" />  
+ <img style="margin: 10px" src="https://github.com/Alakhdeepsingh/Images/blob/main/firebase1.png" alt="firebase" height="100" />  
+ <img style="margin: 10px" src="https://github.com/Alakhdeepsingh/Images/blob/main/heroku.png" alt="firebase" height="70" />
+
+  </div></td></tr>
       
 </table>
 
@@ -53,5 +76,3 @@
 ![Alakhdeepsingh's github stats](https://github-readme-stats.vercel.app/api?username=Alakhdeepsingh&show_icons=true&theme=radical)
 
 </div>
-
-
