@@ -17,7 +17,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Alakhdeepsingh" alt="Alakhdeepsingh" /> </p>
 [![GitHub followers](https://img.shields.io/github/followers/Alakhdeepsingh.svg?style=social&label=Follow)](https://github.com/Alakhdeepsingh?tab=followers)
-<br/> <p align="left"> <img src="https://komarev.com/ghpvc/?username=Alakhdeepsingh" alt="Alakhdeepsingh" /> </p>
+<br/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Alakhdeepsingh" alt="Alakhdeepsingh" /> </p>
 
 ### About Me 🚀
 
