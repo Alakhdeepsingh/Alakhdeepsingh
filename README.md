@@ -16,9 +16,7 @@
   [![Codeforces](https://img.shields.io/badge/-@alakhdeepsingh773-FFD700?style=flat-square&labelColor=FFD700&logo=codeforces&logoColor=white&link=https://codeforces.com/profile/alakhdeepsingh773)](https://codeforces.com/profile/alakhdeepsingh773)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Alakhdeepsingh" alt="Alakhdeepsingh" /> </p>
-
 ### About Me 🚀
-
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="215" />
 
 - 🎓 I’m Full Stack Web Developer (MERN) , Competitive Programmer & a junior pursuing my Bachelors in Information Technology Engineering. </br>
@@ -28,7 +26,6 @@
 - 📫 How to reach me: [Mail](mailto:alakhdeepsingh773@gmail.com), [LinkedIn](https://www.linkedin.com/in/alakhdeepsingh/)
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I am a foody and comedian too.
-
 ### My Experiences 🙌
 1-[Chegg](https://www.cheggindia.com/qa-experts/sign-up/) - Subject Expert (Computer Science): I have resolved the doubts by answering the questions of students across the worldwide            in Computer Science Subject. I have answered 50+ questions asked by students in computer science subject.               
 2-[Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com) - Conducted webinar on Git & Github.                                                             
