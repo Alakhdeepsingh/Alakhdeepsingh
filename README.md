@@ -16,6 +16,7 @@
   [![Codeforces](https://img.shields.io/badge/-@alakhdeepsingh773-FFD700?style=flat-square&labelColor=FFD700&logo=codeforces&logoColor=white&link=https://codeforces.com/profile/alakhdeepsingh773)](https://codeforces.com/profile/alakhdeepsingh773)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Alakhdeepsingh" alt="Alakhdeepsingh" /> </p>
+
 ### About Me 🚀
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="215" />
 
