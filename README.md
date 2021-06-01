@@ -16,14 +16,13 @@
   [![Codeforces](https://img.shields.io/badge/-@alakhdeepsingh773-FFD700?style=flat-square&labelColor=FFD700&logo=codeforces&logoColor=white&link=https://codeforces.com/profile/alakhdeepsingh773)](https://codeforces.com/profile/alakhdeepsingh773)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Alakhdeepsingh" alt="Alakhdeepsingh" /> </p>
+
 [![GitHub followers](https://img.shields.io/github/followers/Alakhdeepsingh.svg?style=social&label=Follow)](https://github.com/Alakhdeepsingh?tab=followers)
 <br/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Alakhdeepsingh" alt="Alakhdeepsingh" /> </p>
 
 ### About Me 🚀
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="215" />
-
 
 - 🎓 I’m Full Stack Web Developer (MERN) , Competitive Programmer & a junior pursuing my Bachelors in Information Technology Engineering. </br>
 - 💻 I am passionate about Full Stack Dev, DevOps & I enjoy learning new things. </br>
@@ -37,7 +36,6 @@
 1-[Chegg](https://www.cheggindia.com/qa-experts/sign-up/) - Subject Expert (Computer Science): I have resolved the doubts by answering the questions of students across the worldwide            in Computer Science Subject. I have answered 50+ questions asked by students in computer science subject.               
 2-[Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com) - Conducted webinar on Git & Github.                                                             
 3-[IBM ZAmbassador](https://zambassador.com/) - Conducted webinar on Master the Mainframe (MTM) tech.
-
 
 ## My Skills Sets 
 <table><tr><td valign="top" width="33%">
