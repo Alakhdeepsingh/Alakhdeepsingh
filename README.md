@@ -15,7 +15,8 @@
   [![Leetcode Badge](https://img.shields.io/badge/-@alakhdeepsingh-FF4500?style=flat-square&logo=Leetcode&logoColor=white&link=https://leetcode.com/alakhdeepsingh/)](https://leetcode.com/alakhdeepsingh/)
   [![Codeforces](https://img.shields.io/badge/-@alakhdeepsingh773-FFD700?style=flat-square&labelColor=FFD700&logo=codeforces&logoColor=white&link=https://codeforces.com/profile/alakhdeepsingh773)](https://codeforces.com/profile/alakhdeepsingh773)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Alakhdeepsingh" alt="Alakhdeepsingh" /> </p> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Alakhdeepsingh" alt="Alakhdeepsingh" /> </p>
+
 [![GitHub followers](https://img.shields.io/github/followers/Alakhdeepsingh.svg?style=social&label=Follow)]
 (https://github.com/Alakhdeepsingh?tab=followers)
 <br/>
