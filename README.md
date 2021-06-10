@@ -57,7 +57,6 @@
   
 ### Cloud Computing Platform
 <div align="center"> 
- <img style="margin: 10px" src="https://github.com/Alakhdeepsingh/Images/blob/main/azure.png" alt="azure" height="50" />  
  <img style="margin: 10px" src="https://github.com/Alakhdeepsingh/Images/blob/main/firebase1.png" alt="firebase" height="100" />  
  <img style="margin: 10px" src="https://github.com/Alakhdeepsingh/Images/blob/main/heroku.png" alt="firebase" height="70" />
 
