@@ -28,7 +28,7 @@
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I am a foody and comedian too.
 ### My Experiences 🙌
-1-[Google Developer Student Club Lead](https://developers.google.com/community/dsc) - DSC Lead of my Campus.
+1-[Google Developer Student Club Lead](https://developers.google.com/community/dsc) - Google Developer Student Club Lead of my  College Campus.                                                                     
 2-[Chegg](https://www.cheggindia.com/qa-experts/sign-up/) - Subject Expert (Computer Science): I have resolved the doubts by answering the questions of students across the worldwide            in Computer Science Subject. I have answered 50+ questions asked by students in computer science subject.               
 3-[Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com) - Conducted webinar on Git & Github.                                                             
 4-[IBM ZAmbassador](https://zambassador.com/) - Conducted webinar on Master the Mainframe (MTM) tech.
