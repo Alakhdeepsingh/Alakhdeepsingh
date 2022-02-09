@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alakhdeepsingh&label=Profile%20views&color=0e75b6&style=flat" alt="alakhdeepsingh" /> </p>
 
 - 💬 Ask me about **Cpp,JS,Bootstrap5,React.js,Redux.js,Node.js,Express.js,MySQL,MongoDB**
-- 
+
 - 🤝 I’m looking for Internships Opportunities in **Tech**
 
 - 📓 You can find my Resume [here](here)
