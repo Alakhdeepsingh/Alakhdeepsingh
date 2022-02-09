@@ -5,7 +5,7 @@
 
 - 🤝 I’m looking for Internships Opportunities in **Tech**
 
-- 🌱 I’m currently learning Data-structures and Algorithms
+- 🌱 I’m currently learning **Data-structures and Algorithms**
 
 - 📓 You can find my Resume [here](here)
 
