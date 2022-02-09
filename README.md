@@ -1,17 +1,19 @@
 <h1 align="center">Hi 👋, I'm Alakhdeep Singh</h1>
-<h3 align="center">A passionate Full Stack Web developer & Programmer</h3>
+<h3 align="center">A passionate Full Stack Web developer & Programmer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alakhdeepsingh&label=Profile%20views&color=0e75b6&style=flat" alt="alakhdeepsingh" /> </p>
 
 - 🤝 I’m looking for Internships Opportunities in **Tech**
 
+- 🌱 I’m currently learning Data-structures and Algorithms
+
 - 📓 You can find my Resume [here](here)
 
 - 📫 How to reach me [alakhdeepsingh773@gmail.com](alakhdeepsingh773@gmail.com)
 
-- 👨‍💻 All of my projects are available at **here**
+-  💬 Ask me about **MERN**
 
-- 💬 Ask me about **Cpp,Java,JS,Bootstrap5,Redux.js,MySQL,MERN**
+- 👨‍💻 All of my projects are available at **here**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
