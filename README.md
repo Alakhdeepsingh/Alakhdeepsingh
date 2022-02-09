@@ -3,17 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alakhdeepsingh&label=Profile%20views&color=0e75b6&style=flat" alt="alakhdeepsingh" /> </p>
 
+- 💬 Ask me about **Cpp,JS,Bootstrap5,React.js,Redux.js,Node.js,Express.js,MySQL,MongoDB**
+- 
 - 🤝 I’m looking for Internships Opportunities in **Tech**
-
-- 🌱 I’m currently learning **Data Structures & Algorithms**
 
 - 📓 You can find my Resume [here](here)
 
-- 🔭 I’m currently working on [Big-Mart](https://github.com/Alakhdeepsingh/Big-Mart)
-
 - 📫 How to reach me [alakhdeepsingh773@gmail.com](alakhdeepsingh773@gmail.com)
-
-- 💬 Ask me about **Cpp,JS,Bootstrap5,React.js,Redux.js,Node.js,Express.js,MySQL,MongoDB**
 
 - 👨‍💻 All of my projects are available at **here**
 
