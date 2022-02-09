@@ -7,13 +7,15 @@
 
 - 🌱 I’m currently learning **Data-structures and Algorithms**
 
+-  💬 Ask me about **MERN**
+
 - 📓 You can find my Resume [here](here)
 
 - 📫 How to reach me [alakhdeepsingh773@gmail.com](alakhdeepsingh773@gmail.com)
 
--  💬 Ask me about **MERN**
-
 - 👨‍💻 All of my projects are available at **here**
+
+- ⚡ Fun fact I think I am funny
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
