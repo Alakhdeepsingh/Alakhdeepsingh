@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at **here**
 
-- 💬 Ask me about **Cpp,JS,Bootstrap5,\,Redux.js,Node.js,Express.js,MySQL,MongoDB**
+- 💬 Ask me about **Cpp,Java,JS,Bootstrap5,Redux.js,MySQL,MERN**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
