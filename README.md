@@ -3,13 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alakhdeepsingh&label=Profile%20views&color=0e75b6&style=flat" alt="alakhdeepsingh" /> </p>
 
+- 🌱 I’m currently learning **Data Structures & Algorithms**
+
+- 📓 You can find my Resume [here](here)
+
 - 🔭 I’m currently working on [Big-Mart](https://github.com/Alakhdeepsingh/Big-Mart)
 
-- 🌱 I’m currently learning **Data Structures & Algorithms**
+- 📫 How to reach me [alakhdeepsingh773@gmail.com](alakhdeepsingh773@gmail.com)
 
 - 💬 Ask me about **Cpp,JS,Bootstrap5,React.js,Redux.js,Node.js,Express.js,MySQL,MongoDB**
 
-- 📫 How to reach me **alakhdeepsingh773@gmail.com**
+- 👨‍💻 All of my projects are available at **here**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,4 +32,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alakhdeepsingh&show_icons=true&locale=en" alt="alakhdeepsingh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alakhdeepsingh&" alt="alakhdeepsingh" /></p>
-
