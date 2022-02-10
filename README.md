@@ -32,5 +32,5 @@
  <a href="https://michalsnik.github.io/aos/" target="_blank" rel="noreferrer"> <img src=https://github.com/Alakhdeepsingh/Alakhdeepsingh/blob/main/aos.png alt="aos" width="40" height="40"/> </a>
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alakhdeepsingh&show_icons=true&locale=en&layout=compact" alt="alakhdeepsingh" />
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alakhdeepsingh&show_icons=true&locale=en" alt="alakhdeepsingh" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alakhdeepsingh&show_icons=true&locale=en&layout=compact" alt="alakhdeepsingh" /><p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alakhdeepsingh&show_icons=true&locale=en" alt="alakhdeepsingh" /><p>
