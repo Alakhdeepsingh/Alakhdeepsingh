@@ -32,7 +32,7 @@
  <a href="https://michalsnik.github.io/aos/" target="_blank" rel="noreferrer"> <img src="https://github.com/Alakhdeepsingh/Alakhdeepsingh/blob/main/animate%20on%20scroll.png" width="60" height="40"/> </a>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alakhdeepsingh&show_icons=true&locale=en&layout=compact" alt="alakhdeepsingh" /></>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alakhdeepsingh&show_icons=true&locale=en" alt="alakhdeepsingh" /></>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alakhdeepsingh&show_icons=true&locale=en&layout=compact" alt="alakhdeepsingh" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alakhdeepsingh&show_icons=true&locale=en" alt="alakhdeepsingh" /></p>
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alakhdeepsingh&" alt="alakhdeepsingh" /></p>
 
