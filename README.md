@@ -9,9 +9,9 @@
 
 - 📓 You can find my Resume [here](here)
 
-- 📫 How to reach me [alakhdeepsingh773@gmail.com](alakhdeepsingh773@gmail.com)
-
 - 👨‍💻 All of my projects are available at [My Portfolio](https://alakhdeepsingh.github.io/Portfolio/)
+
+- 📫 How to reach me [alakhdeepsingh773@gmail.com](alakhdeepsingh773@gmail.com)
 
 - ⚡ Fun fact I think I am funny
 
