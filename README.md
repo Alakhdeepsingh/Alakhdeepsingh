@@ -7,11 +7,11 @@
 
 -  💬 Ask me about **MERN**
 
-- 📓 You can find my Resume [My Portfolio](here)
+- 📓 You can find my Resume [here](here)
 
 - 📫 How to reach me [alakhdeepsingh773@gmail.com](alakhdeepsingh773@gmail.com)
 
-- 👨‍💻 All of my projects are available at [here](https://alakhdeepsingh.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://alakhdeepsingh.github.io/Portfolio/)
 
 - ⚡ Fun fact I think I am funny
 
