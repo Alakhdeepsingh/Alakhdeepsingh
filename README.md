@@ -7,7 +7,7 @@
 
 -  💬 Ask me about **MERN**
 
-- 📓 You can find my Resume [here](here)
+- 📓 You can find my Resume [My Portfolio](here)
 
 - 📫 How to reach me [alakhdeepsingh773@gmail.com](alakhdeepsingh773@gmail.com)
 
