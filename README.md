@@ -7,7 +7,7 @@
 
 -  💬 Ask me about **MERN**
 
-- 📓 You can find my Resume [here](here)
+- 📓 You can find my Resume [here](https://drive.google.com/file/d/1LIYif-z6RiW6o3-Js_TwmDksrq1hNkh_/view?usp=sharing)
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://alakhdeepsingh.github.io/Portfolio/)
 
