@@ -5,8 +5,6 @@
 
 - 🤝 I’m looking for Internships Opportunities in **Tech**
 
--  💬 Ask me about **MERN**
-
 - 📓 You can find my Resume [here](https://drive.google.com/file/d/1c20RMsTLKuyzLyc-XgVA__-Z5Z2BH_WN/view?usp=sharing)
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://alakhdeepsingh.github.io/Portfolio/)
