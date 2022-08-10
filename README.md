@@ -3,13 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alakhdeepsingh&label=Profile%20views&color=0e75b6&style=flat" alt="alakhdeepsingh" /> </p>
 
- - 🤝 I’m looking for Internships Opportunities in **Tech**                                     
+ - 🤝 I’m Searching for Internships & Full time Opportunity in **Tech**          
+ 
+ - 👯 I’m looking to collaborate on exciting Projects and Hackathons
  
  - 📓 You can find my Resume [here](https://drive.google.com/file/d/1c20RMsTLKuyzLyc-XgVA__-Z5Z2BH_WN/view?usp=sharing)                              
  
  - 👨‍💻 All of my **projects** are available at [My Portfolio](https://alakhdeepsingh.github.io/Portfolio/)                          
  
- - 📫 How to reach me [alakhdeepsingh773@gmail.com](alakhdeepsingh773@gmail.com)                           
+ - 📫 How to reach me [alakhdeepsingh773@gmail.com](alakhdeepsingh773@gmail.com)        
  
  - ⚡ Fun fact I think I am funny                          
 
