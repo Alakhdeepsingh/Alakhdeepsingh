@@ -35,5 +35,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alakhdeepsingh&label=Profile%20views&color=0e75b6&style=flat" alt="alakhdeepsingh" /> </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alakhdeepsingh&show_icons=true&locale=en&layout=compact" alt="alakhdeepsingh" /></p>
  <p>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Alakhdeepsingh&theme=buefy&show_icons=true" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alakhdeepsingh&" alt="alakhdeepsingh" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Alakhdeepsingh&theme=buefy&show_icons=true" /> </p>
+ <p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alakhdeepsingh&" alt="alakhdeepsingh" /></p>
