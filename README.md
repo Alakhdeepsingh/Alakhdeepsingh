@@ -23,9 +23,9 @@
 <a href="https://medium.com/@alakhdeepsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="alakhdeepsingh" height="30" width="40" /></a>
  <a href="https://dev.to/alakhdeeps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="alakhdeeps" height="30" width="40" /></a>
 <a href="https://www.credly.com/users/alakhdeep-singh.615bab6d/badges" target="blank"><img align="center" src="https://github.com/Alakhdeepsingh/Alakhdeepsingh/blob/main/credly.png" alt="alakhdeeps" height="30" width="40" /></a>
-
+<a href="https://www.codechef.com/users/punjabi_coder1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="punjabi_coder1" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/singhiscoderking/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="singhiscoderking/" height="30" width="40" /></a>
 </p>
-
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -39,4 +39,9 @@
 
  <p>
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Alakhdeepsingh&theme=buefy&show_icons=true" />
+</p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alakhdeepsingh&" alt="alakhdeepsingh" /></p>
+
+
 </p>
