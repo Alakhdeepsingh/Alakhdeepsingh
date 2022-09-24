@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alakhdeepsingh&label=Profile%20views&color=0e75b6&style=flat" alt="alakhdeepsingh" /> </p>          
  
- - 🔷 I’m looking to collaborate on exciting Projects and Hackathons
+ - 🤝 I’m looking to collaborate on exciting Projects and Hackathons
  
  - 📓 You can find my Resume [here](https://drive.google.com/file/d/1c20RMsTLKuyzLyc-XgVA__-Z5Z2BH_WN/view?usp=sharing)                              
  
