@@ -1,9 +1,7 @@
 <h1 align="center"> Hi 👋, I'm <a href="https://alakhdeepsingh.github.io/Portfolio/" target="blank">Alakhdeep Singh</a></h1>
 <h3 align="center">A passionate Full Stack developer & Problem Solver from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alakhdeepsingh&label=Profile%20views&color=0e75b6&style=flat" alt="alakhdeepsingh" /> </p>
-
- - 🤝 I’m Searching for Internships & Full time Opportunity in **Tech**          
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alakhdeepsingh&label=Profile%20views&color=0e75b6&style=flat" alt="alakhdeepsingh" /> </p>          
  
  - 🔷 I’m looking to collaborate on exciting Projects and Hackathons
  
