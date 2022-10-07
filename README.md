@@ -11,9 +11,9 @@
  
  - 👨‍💻 All of my **projects** are available at [My Portfolio](https://alakhdeepsingh.github.io/Portfolio/)
  
- - 💬 Ask me about anything (would definitely try helping you out)                          
+ - 💬 **Ask me about anything** (would definitely try helping you out)                          
  
- - 📫 How to reach me [alakhdeepsingh773@gmail.com](alakhdeepsingh773@gmail.com)        
+ - 📫 **How to reach me** [alakhdeepsingh773@gmail.com](alakhdeepsingh773@gmail.com)        
  
  - ⚡ Fun fact I think I am funny                          
 
