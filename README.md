@@ -9,7 +9,9 @@
  
  - 📓 You can find my Resume [here](https://drive.google.com/file/d/1c20RMsTLKuyzLyc-XgVA__-Z5Z2BH_WN/view?usp=sharing)                              
  
- - 👨‍💻 All of my **projects** are available at [My Portfolio](https://alakhdeepsingh.github.io/Portfolio/)                          
+ - 👨‍💻 All of my **projects** are available at [My Portfolio](https://alakhdeepsingh.github.io/Portfolio/)
+ 
+ - 💬 Ask me about anything (would definitely try helping you out)                          
  
  - 📫 How to reach me [alakhdeepsingh773@gmail.com](alakhdeepsingh773@gmail.com)        
  
