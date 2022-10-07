@@ -6,16 +6,16 @@
 - 🌱 I’m currently learning to be **consistent in life**
 
 - 🤝 I’m looking to collaborate on **Projects and Hackathons**
+
+- 💬 **Ask me about anything** (would definitely try helping you out)    
+
+- 👨‍💻 All of my **projects** are available at [My Portfolio](https://alakhdeepsingh.github.io/Portfolio/) 
+
+- 📫 **How to reach me** [alakhdeepsingh773@gmail.com](alakhdeepsingh773@gmail.com) 
  
- - 📓 You can find my **Resume** [here](https://drive.google.com/file/d/1c20RMsTLKuyzLyc-XgVA__-Z5Z2BH_WN/view?usp=sharing)                              
+- 📓 You can find my **Resume** [here](https://drive.google.com/file/d/1c20RMsTLKuyzLyc-XgVA__-Z5Z2BH_WN/view?usp=sharing)                                             
  
- - 👨‍💻 All of my **projects** are available at [My Portfolio](https://alakhdeepsingh.github.io/Portfolio/)
- 
- - 💬 **Ask me about anything** (would definitely try helping you out)                          
- 
- - 📫 **How to reach me** [alakhdeepsingh773@gmail.com](alakhdeepsingh773@gmail.com)        
- 
- - ⚡ Fun fact I think I am funny                          
+- ⚡ Fun fact I think I am funny                          
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
