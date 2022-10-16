@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking to collaborate on **Projects and Hackathons**
 
-- 💬 **Ask me about anything like Javascript, MERN Stack, DSA** (would definitely try helping you out)    
+- 💬 **Ask me about anything like Javascript, MERN Stack, DSA, C++** (would definitely try helping you out)    
 
 - 👨‍💻 All of my **projects** are available at [My Portfolio](https://alakhdeepsingh.github.io/Portfolio/) 
 
