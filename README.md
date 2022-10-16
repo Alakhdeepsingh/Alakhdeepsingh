@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alakhdeepsingh&label=Profile%20views&color=0e75b6&style=flat" alt="alakhdeepsingh" /> </p>          
  
-- 🌱 I’m currently learning to be **consistent and discipline in life**
+- 🌱 I’m currently **learning & practicing Data Structure & Algorithms**
 
 - 🤝 I’m looking to collaborate on **Projects and Hackathons**
 
-- 💬 **Ask me about anything** (would definitely try helping you out)    
+- 💬 **Ask me about anything like Javascript, MERN Stack, DSA** (would definitely try helping you out)    
 
 - 👨‍💻 All of my **projects** are available at [My Portfolio](https://alakhdeepsingh.github.io/Portfolio/) 
 
