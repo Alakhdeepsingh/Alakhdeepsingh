@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alakhdeepsingh&label=Profile%20views&color=0e75b6&style=flat" alt="alakhdeepsingh" /> </p>          
  
+- 🔷 𝐂𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲, 𝐈 𝐚𝐦 𝐀𝐜𝐭𝐢𝐯𝐞𝐥𝐲 𝐋𝐨𝐨𝐤𝐢𝐧𝐠 𝐈𝐧𝐭𝐞𝐫𝐧𝐬𝐡𝐢𝐩 𝐫𝐨𝐥𝐞𝐬 𝐢𝐧 𝐓𝐞𝐜𝐡 𝐬𝐭𝐚𝐫𝐭𝐢𝐧𝐠 𝐟𝐫𝐨𝐦 𝐉𝐚𝐧𝐮𝐚𝐫𝐲 2023 𝐚𝐧𝐝 𝐅𝐮𝐥𝐥 𝐓𝐢𝐦𝐞 𝐩𝐨𝐬𝐢𝐭𝐢𝐨𝐧 𝐛𝐞𝐠𝐢𝐧𝐧𝐢𝐧𝐠 𝐢𝐧 𝐉𝐮𝐥𝐲 2023. 
+
 - 🌱 I’m currently **learning & practicing Data Structure & Algorithms**
 
 - 🤝 I’m looking to collaborate on **Projects and Hackathons**
