@@ -1,5 +1,8 @@
 <h1 align="center"> Hi 👋, I'm <a href="https://alakhdeepsingh.github.io/Portfolio/" target="blank">Alakhdeep Singh</a></h1>
-<h3 align="center">A passionate Full Stack MERN developer & Problem Solver from India</h3>
+<h3 align="center">A passionate Software Developer , Full Stack MERN developer , Technical Writer & Mentor from India</h3>
+
+#### <img src="https://img.shields.io/badge/-Fullstack%20Developer-purple?&style=for-the-badge"/> <img src="https://img.shields.io/badge/-Frontend%20Developer-red?&style=for-the-badge"/>  <img src="https://img.shields.io/badge/-Backend Developer-yellow?&style=for-the-badge"/> <img src="https://img.shields.io/badge/-React%20Developer-lightblue?&style=for-the-badge"/> <img src="https://img.shields.io/badge/-JavaScript%20Developer-green?&style=for-the-badge"/>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alakhdeepsingh&label=Profile%20views&color=0e75b6&style=flat" alt="alakhdeepsingh" /> </p>          
  
@@ -10,11 +13,11 @@
 - 🤝 I’m looking to collaborate on **Projects and Hackathons**
 
 - 💬 **Ask me about anything like Javascript, MERN Stack, DSA, C++** (would definitely try helping you out)    
-
-- 👨‍💻 All of my **projects** are available at [My Portfolio](https://alakhdeepsingh.github.io/Portfolio/) 
-
-- 📫 **How to reach me** [alakhdeepsingh773@gmail.com](alakhdeepsingh773@gmail.com) 
  
+- 👨‍💻 All of my **projects** are available at [My Portfolio](https://alakhdeepsingh.github.io/Portfolio/)   
+
+- 📫 **How to reach me** [alakhdeepsingh773@gmail.com](alakhdeepsingh773@gmail.com)
+
 - 📓 You can find my **Resume** [here](https://drive.google.com/file/d/1c20RMsTLKuyzLyc-XgVA__-Z5Z2BH_WN/view?usp=sharing)                                             
  
 - ⚡ Fun fact I think I am funny                          
