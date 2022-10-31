@@ -18,7 +18,8 @@
 
 - 📫 **How to reach me** [alakhdeepsingh773@gmail.com](alakhdeepsingh773@gmail.com)
 
-- 📓 You can find my **Resume** [here](https://drive.google.com/file/d/1c20RMsTLKuyzLyc-XgVA__-Z5Z2BH_WN/view?usp=sharing)                                             
+- 📓 You can find my **Resume** [here](https://drive.google.com/file/d/18wcY-puMj7-N2bMhnRgjOKkQw77PHYjt/view?usp=drivesdk
+)                                             
  
 - ⚡ Fun fact I think I am funny                          
 
