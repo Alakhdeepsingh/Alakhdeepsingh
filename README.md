@@ -11,6 +11,8 @@ My goal is to solve real life problems using technology and create an impact ✨
 
 - 🔷 Currently, I am Actively Looking Internship roles in Tech starting from January 2023 and Full Time position beginning in July 2023.
 
+- 📓 You can find my **Resume** [here](https://drive.google.com/file/d/18wcY-puMj7-N2bMhnRgjOKkQw77PHYjt/view?usp=drivesdk)
+
 - 🌱 I’m currently learning & practicing **Data Structure & Algorithms**
  
 - 🤝 I’m looking to collaborate on **Projects and Hackathons**
@@ -20,8 +22,6 @@ My goal is to solve real life problems using technology and create an impact ✨
 - 👨‍💻 All of my **projects** are available at [My Portfolio](https://alakhdeepsingh.github.io/Portfolio/) 
 
 - 📫 **How to reach me** [alakhdeepsingh773@gmail.com](alakhdeepsingh773@gmail.com)
-
-- 📓 You can find my **Resume** [here](https://drive.google.com/file/d/18wcY-puMj7-N2bMhnRgjOKkQw77PHYjt/view?usp=drivesdk)
 
 
 <h3 align="left">Connect with me:</h3>
