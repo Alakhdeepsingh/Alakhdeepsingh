@@ -9,7 +9,7 @@
 - I am a Senior doing Information Technology Engineering from GNDEC Ludhiana 🏛️. I am passionate about Full Stack development 🚀 and Open Source Contribution 💻. My areas of interest includes Web Design and Development, Database Management and Competitive Coding. I am a curious person who wants to explore every tech stack 💡 .                                           
 My goal is to solve real life problems using technology and create an impact ✨.
 
-- Currently, I am Actively Looking Internship roles in Tech starting from January 2023 and Full Time position beginning in July 2023.
+- 🔷Currently, I am Actively Looking Internship roles in Tech starting from January 2023 and Full Time position beginning in July 2023.
 
 - 📓 You can find my **Resume** [here](https://drive.google.com/file/d/18wcY-puMj7-N2bMhnRgjOKkQw77PHYjt/view?usp=drivesdk)
 
