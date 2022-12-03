@@ -8,12 +8,19 @@
  
 - I am a Senior doing Computer Science engineering from GNDEC Ludhiana 🏛️. I am passionate about Full Stack development 🚀 and Open Source Contribution 💻. My areas of interest includes Web Design and Development, Database Management and Competitive Coding. I am a curious person who wants to explore every tech stack 💡 .
 My goal is to solve real life problems using technology and create an impact ✨.
+
 - 🔷 𝐂𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲, 𝐈 𝐚𝐦 𝐀𝐜𝐭𝐢𝐯𝐞𝐥𝐲 𝐋𝐨𝐨𝐤𝐢𝐧𝐠 𝐈𝐧𝐭𝐞𝐫𝐧𝐬𝐡𝐢𝐩 𝐫𝐨𝐥𝐞𝐬 𝐢𝐧 𝐓𝐞𝐜𝐡 𝐬𝐭𝐚𝐫𝐭𝐢𝐧𝐠 𝐟𝐫𝐨𝐦 𝐉𝐚𝐧𝐮𝐚𝐫𝐲 2023 𝐚𝐧𝐝 𝐅𝐮𝐥𝐥 𝐓𝐢𝐦𝐞 𝐩𝐨𝐬𝐢𝐭𝐢𝐨𝐧 𝐛𝐞𝐠𝐢𝐧𝐧𝐢𝐧𝐠 𝐢𝐧 𝐉𝐮𝐥𝐲 2023. 
+
 - 🌱 I’m currently **learning & practicing Data Structure & Algorithms**
+ 
 - 🤝 I’m looking to collaborate on **Projects and Hackathons**
-- 💬 **Ask me about anything like Javascript, MERN Stack, DSA, C++** (would definitely try helping you out)    
-- 👨‍💻 All of my **projects** are available at [My Portfolio](https://alakhdeepsingh.github.io/Portfolio/)   
+
+- 💬 **Ask me about anything like Javascript, MERN Stack, DSA ** (would definitely try helping you out)    
+ 
+- 👨‍💻 All of my **projects** are available at [My Portfolio](https://alakhdeepsingh.github.io/Portfolio/) 
+
 - 📫 **How to reach me** [alakhdeepsingh773@gmail.com](alakhdeepsingh773@gmail.com)
+
 - 📓 You can find my **Resume** [here](https://drive.google.com/file/d/18wcY-puMj7-N2bMhnRgjOKkQw77PHYjt/view?usp=drivesdk)
 
 
