@@ -43,6 +43,7 @@ My goal is to solve real life problems using technology and create an impact ✨
     
 - **Frontend** : <br />
     [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://www.w3.org/html/)
+    [![CSS3](https://img.shields.io/badge/CSS3-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://www.w3schools.com/css/)
     [![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)](https://sass-lang.com/)
     [![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)](https://reactjs.org/)
     [![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=material-ui&logoColor=white)](https://material-ui.com/)
