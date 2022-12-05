@@ -35,7 +35,7 @@ My goal is to solve real life problems using technology and create an impact ✨
  <a href="https://medium.com/@alakhdeepsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="alakhdeepsingh" height="30" width="40" /></a><a href="https://dev.to/alakhdeeps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="alakhdeeps" height="30" width="40" /></a>
 
 
- <h2> 🛠 &nbsp;My Tech Stack</h2>
+ <h2> &nbsp;My Tech Stack</h2>
 
  
  
