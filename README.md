@@ -68,7 +68,7 @@ My goal is to solve real life problems using technology and create an impact ✨
 
     
     ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white) 
-    ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) 
+    ![MySQL](https://img.shields.io/badge/MySQL-007FFF?style=for-the-badge&logo=mysql&logoColor=white) 
     
     
 -   **IDE and Tools**:
