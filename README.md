@@ -1,5 +1,5 @@
 <h2 align="center"> Hi 👋, I'm <a href="https://alakhdeepsingh.github.io/Portfolio/" target="blank">Alakhdeep Singh </a> a final year Information Technology Student</h2>
-<h3 align="center">A passionate Software Developer , Full Stack developer , Technical Writer & Mentor from India</h3>
+<h3 align="center">A passionate Software Developer , Frontend developer , Technical Writer & Mentor from India</h3>
 
 #### 
 <!-- <img src="https://img.shields.io/badge/-Fullstack%20Developer-red?&style=for-the-badge"/> -->
@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alakhdeepsingh&label=Profile%20views&color=0e75b6&style=flat" alt="alakhdeepsingh" /> </p>          
  
-- I am a Senior doing Information Technology Engineering from GNDEC Ludhiana 🏛️. I am passionate about Full Stack development 🚀 and Open Source Contribution 💻. My areas of interest includes Web Design and Development, Database Management and Competitive Coding. I am a curious person who wants to explore every tech stack 💡 .                                           
+- I am a Senior doing Information Technology Engineering from GNDEC Ludhiana 🏛️. I am passionate about Frontend development 🚀 and Open Source Contribution 💻. My areas of interest includes Web Design and Development, Database Management and Competitive Coding. I am a curious person who wants to explore every tech stack 💡 .                                           
 My goal is to solve real life problems using technology and create an impact ✨.
 
 - 🔷 Currently, I am Actively Looking Internship roles in Tech starting from January 2023 & Full Time position beginning in July 2023.
