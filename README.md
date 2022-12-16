@@ -1,8 +1,11 @@
 <h2 align="center"> Hi 👋, I'm <a href="https://alakhdeepsingh.github.io/Portfolio/" target="blank">Alakhdeep Singh </a> a final year Information Technology Student</h2>
 <h3 align="center">A passionate Software Developer , Full Stack developer , Technical Writer & Mentor from India</h3>
 
-#### <img src="https://img.shields.io/badge/-Fullstack%20Developer-red?&style=for-the-badge"/> <img src="https://img.shields.io/badge/-Frontend%20 ReactJS Developer-green?&style=for-the-badge"/>  <img src="https://img.shields.io/badge/-Backend Developer-blue?&style=for-the-badge"/> <img src="https://img.shields.io/badge/-JavaScript%20Developer-yellow?&style=for-the-badge"/>
+#### 
+<!-- <img src="https://img.shields.io/badge/-Fullstack%20Developer-red?&style=for-the-badge"/> -->
+<img src="https://img.shields.io/badge/-Frontend%20 ReactJS Developer-red?&style=for-the-badge"/>  &nbsp; <img src="https://img.shields.io/badge/-JavaScript%20Developer-yellow?&style=for-the-badge"/> &nbsp; <img src="https://img.shields.io/badge/-DataStructures & Algorithms-blue?&style=for-the-badge"/>
 
+<!-- <img src="https://img.shields.io/badge/-Backend Developer-blue?&style=for-the-badge"/> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alakhdeepsingh&label=Profile%20views&color=0e75b6&style=flat" alt="alakhdeepsingh" /> </p>          
  
@@ -54,10 +57,9 @@ My goal is to solve real life problems using technology and create an impact ✨
    ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
     ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![Reactjs](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
-<!--    ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) -->
    ![Material ui](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
    ![Bootstrap](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
-     
+   <!--    ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) -->
 <!--  -   **Backend**
  
      ![nodejs](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
@@ -66,10 +68,8 @@ My goal is to solve real life problems using technology and create an impact ✨
  
 -   **Databases**:
 
-    
-<!--     ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)  -->
     ![MySQL](https://img.shields.io/badge/MySQL-007FFF?style=for-the-badge&logo=mysql&logoColor=white) 
-    
+<!--     ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)  -->    
     
 -   **IDE and Tools**:
 
@@ -94,9 +94,7 @@ My goal is to solve real life problems using technology and create an impact ✨
     [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://www.w3.org/html/)
     [![CSS3](https://img.shields.io/badge/CSS3-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://www.w3schools.com/css/)
     [![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)](https://sass-lang.com/)
-    [![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-    [![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=material-ui&logoColor=white)](https://material-ui.com/)
-    [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
+    [![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)](https://reactjs.org/)[![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=material-ui&logoColor=white)](https://material-ui.com/)[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
     
 - **Backend** : <br />
     [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
