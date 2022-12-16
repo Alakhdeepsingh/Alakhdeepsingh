@@ -20,7 +20,7 @@ My goal is to solve real life problems using technology and create an impact ✨
 
 - 🌱 I’m currently learning & practicing **Data Structure & Algorithms**
 
-- 💬 **Ask me about anything like Javascript, MERN Stack, DSA** (would definitely try helping you out)    
+- 💬 **Ask me about anything like Javascript, ReactJS, DSA, Cpp** (would definitely try helping you out)    
 
 - 👨‍💻 All of my **projects** are available at [My Portfolio](https://alakhdeepsingh.github.io/Portfolio/) 
  
