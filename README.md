@@ -3,7 +3,7 @@
 
 #### 
 <!-- <img src="https://img.shields.io/badge/-Fullstack%20Developer-red?&style=for-the-badge"/> -->
-<img src="https://img.shields.io/badge/-Frontend%20 ReactJS Developer-red?&style=for-the-badge"/>  &nbsp; <img src="https://img.shields.io/badge/-JavaScript%20Developer-yellow?&style=for-the-badge"/> &nbsp; <img src="https://img.shields.io/badge/-DataStructures & Algorithms-blue?&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-Frontend%20 ReactJS Developer-red?&style=for-the-badge"/>  &nbsp; <img src="https://img.shields.io/badge/-JavaScript%20Developer-yellow?&style=for-the-badge"/> &nbsp; <img src="https://img.shields.io/badge/-DataStructures & Algorithms-green?&style=for-the-badge"/>
 
 <!-- <img src="https://img.shields.io/badge/-Backend Developer-blue?&style=for-the-badge"/> -->
 
