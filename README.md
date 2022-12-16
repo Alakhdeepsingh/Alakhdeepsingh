@@ -11,7 +11,7 @@ My goal is to solve real life problems using technology and create an impact ✨
 
 - 🔷 Currently, I am Actively Looking Internship roles in Tech starting from January 2023 & Full Time position beginning in July 2023.
 
-- 📓 You can find my **Resume** [here](https://drive.google.com/file/d/1QH0ywabMfVEvw0zogew1Y2r0aWtIy5lt/view)
+- 📓 You can find my **Resume** [here](https://drive.google.com/file/d/1QCl3ULIvFBpvuYfuErecQzusmwSQofb6/view)
 
 - 📫 **How to reach me** [alakhdeepsingh773@gmail.com](alakhdeepsingh773@gmail.com)
 
