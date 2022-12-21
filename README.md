@@ -36,7 +36,7 @@ My goal is to solve real life problems using technology and create an impact ✨
 <a href="https://auth.geeksforgeeks.org/user/alakhdeep/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="alakhdeep/practice" height="30" width="40" /> 
 <a href="https://www.credly.com/users/alakhdeep-singh.615bab6d/badges" target="blank"><img align="center" src="https://github.com/Alakhdeepsingh/Alakhdeepsingh/blob/main/credly.png" alt="alakhdeeps" height="30" width="40" /></a>
 <a href="https://medium.com/@alakhdeepsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="alakhdeepsingh" height="30" width="40" /></a><a href="https://dev.to/alakhdeeps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="alakhdeeps" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/UC9N16ZFWsylapMikGovqjkQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dryruncode" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC9N16ZFWsylapMikGovqjkQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dryruncode" height="30" width="40" /></a>
 
  <h2> &nbsp;My Tech Stack</h2>
 
