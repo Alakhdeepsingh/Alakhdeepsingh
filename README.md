@@ -2,10 +2,9 @@
 <h3 align="center">A passionate Software Developer , Full Stack Developer , Technical Writer & Mentor from India</h3>
 
 #### 
-<!-- <img src="https://img.shields.io/badge/-Fullstack%20Developer-red?&style=for-the-badge"/> -->
- <img src="https://img.shields.io/badge/-Frontend%20 ReactJS Developer-red?&style=for-the-badge"/>   <img src="https://img.shields.io/badge/-JavaScript%20Developer-yellow?&style=for-the-badge"/> <img src="https://img.shields.io/badge/-DataStructures & Algorithms-green?&style=for-the-badge"/>
-
-<!-- <img src="https://img.shields.io/badge/-Backend Developer-blue?&style=for-the-badge"/> -->
+<img src="https://img.shields.io/badge/-Fullstack%20Developer-green?&style=for-the-badge"/>
+ <img src="https://img.shields.io/badge/-Frontend%20 ReactJS Developer-red?&style=for-the-badge"/>   <img src="https://img.shields.io/badge/-JavaScript%20Developer-yellow?&style=for-the-badge"/><img src="https://img.shields.io/badge/-Backend Developer-blue?&style=for-the-badge"/>
+<!-- <img src="https://img.shields.io/badge/-DataStructures & Algorithms-green?&style=for-the-badge"/> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alakhdeepsingh&label=Profile%20views&color=0e75b6&style=flat" alt="alakhdeepsingh" /> </p>          
  
@@ -38,78 +37,40 @@ My goal is to solve real life problems using technology and create an impact ✨
 <a href="https://medium.com/@alakhdeepsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="alakhdeepsingh" height="30" width="40" /></a><a href="https://dev.to/alakhdeeps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="alakhdeeps" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UC9N16ZFWsylapMikGovqjkQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dryruncode" height="30" width="40" /></a>
 
- <h2> &nbsp;My Tech Stack</h2>
+<!--  <h2> &nbsp;My Tech Stack</h2> -->
 
  
  
- 
- - **Programming Languages** :
-    
-   
-    ![C++](https://img.shields.io/badge/cpp-%231572B6.svg?style=for-the-badge&logo=c%2B%2B&&logoColor=white)
-    ![javascript](https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)
-  
-   
-   
-    
--  **Frontend**
- 
-   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-    ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![Reactjs](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
-   ![Material ui](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-   ![Bootstrap](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
-   <!--    ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) -->
-<!--  -   **Backend**
- 
-     ![nodejs](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
-     ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) -->
- 
- 
--   **Databases**:
+ <h2> 🛠 &nbsp;My Tech Stack</h2>
 
-    ![MySQL](https://img.shields.io/badge/MySQL-007FFF?style=for-the-badge&logo=mysql&logoColor=white) 
-<!--     ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)  -->    
-    
--   **IDE and Tools**:
-
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-    <a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"></a>
-
-    
-</p>
- 
- 
- 
- 
- 
-<!-- - **Programming languages** : <br />
+- Programming languages : <br />
     [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://www.cplusplus.com/)
-    [![JavaScript](	https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+    [![JavaScript](	https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
     
-- **Frontend** : <br />
+    
+- Frontend : <br />
     [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://www.w3.org/html/)
-    [![CSS3](https://img.shields.io/badge/CSS3-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://www.w3schools.com/css/)
     [![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)](https://sass-lang.com/)
-    [![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)](https://reactjs.org/)[![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=material-ui&logoColor=white)](https://material-ui.com/)[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
+    [![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+    [![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=material-ui&logoColor=white)](https://material-ui.com/)
+    [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
     
-- **Backend** : <br />
-    [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
+- Backend : <br />
     [![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)](https://nodejs.org)
-    [![ExpressJS](https://img.shields.io/badge/Express.js-43853D?style=flat&logo=node.js&logoColor=white)](https://expressjs.org)
-    [![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)](https://heroku.com)
+    [![ExpressJS](https://img.shields.io/badge/Express.js-43853D?style=flat&logo=express.js&logoColor=white)](https://expressjs.org)
+ 
+  
+- Databases :  <br />
+    [![Firebase](https://img.shields.io/badge/-Firebase-2C2D72?style=flat&logo=firebase&logoColor=FFCA28)](https://firebase.google.com/)
+    [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
     [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-    
-- **IDE & Tools** : <br />
+ 
+- IDE & Tools : <br />
     [![VS Code](http://img.shields.io/badge/-VS%20Code-5C2D91?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+    [![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)](https://heroku.com)
     [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
-    [![Postman](https://img.shields.io/badge/Postman-E34F26?style=flat&logo=Postman&logoColor=white)](https://www.postman.com/)
- 
- 
-  -->
+
+
  
 <!-- <h3 align="left">Languages and Tools:</h3>
 <p align="left"><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
