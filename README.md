@@ -1,5 +1,5 @@
 <h2 align="center"> Hi 👋, I'm <a href="https://alakhdeepsingh.github.io/Portfolio/" target="blank">Alakhdeep Singh </a> a final year Information Technology Student</h2>
-<h3 align="center">A passionate Software Developer , Frontend developer , Technical Writer & Mentor from India</h3>
+<h3 align="center">A passionate Software Developer , Full Stack Developer , Technical Writer & Mentor from India</h3>
 
 #### 
 <!-- <img src="https://img.shields.io/badge/-Fullstack%20Developer-red?&style=for-the-badge"/> -->
