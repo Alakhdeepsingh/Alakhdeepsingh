@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Developer , Full Stack Developer , Technical Writer & Mentor from India</h3>
 
 #### 
-<img src="https://img.shields.io/badge/-Fullstack%20Developer-green?&style=for-the-badge"/>    <img src="https://img.shields.io/badge/-Frontend%20 ReactJS Developer-red?&style=for-the-badge"/>    <img src="https://img.shields.io/badge/-JavaScript%20Developer-yellow?&style=for-the-badge"/>    <img src="https://img.shields.io/badge/-Backend Developer-blue?&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-Fullstack%20Developer-green?&style=for-the-badge"/>    <img src="https://img.shields.io/badge/-Frontend%20 ReactJS Developer-red?&style=for-the-badge"/>  <img src="https://img.shields.io/badge/-JavaScript%20Developer-yellow?&style=for-the-badge"/>    <img src="https://img.shields.io/badge/-Backend Developer-blue?&style=for-the-badge"/>
 <!-- <img src="https://img.shields.io/badge/-DataStructures & Algorithms-green?&style=for-the-badge"/> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alakhdeepsingh&label=Profile%20views&color=0e75b6&style=flat" alt="alakhdeepsingh" /> </p>          
