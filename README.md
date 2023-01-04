@@ -78,3 +78,4 @@ My goal is to solve real life problems using technology and create an impact ✨
 </a> -->
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alakhdeepsingh&show_icons=true&locale=en&layout=compact" alt="alakhdeepsingh" />
  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Alakhdeepsingh&theme=buefy&show_icons=true" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alakhdeepsingh&" alt="alakhdeepsingh" />
+ 
