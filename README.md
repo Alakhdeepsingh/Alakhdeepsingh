@@ -40,7 +40,7 @@ My goal is to solve real life problems using technology and create an impact ✨
 
  
  
- <h2> 🛠 &nbsp;My Tech Stack</h2>
+ <h2> &nbsp;My Tech Stack</h2>
 
 - Programming languages : <br />
     [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://www.cplusplus.com/)
