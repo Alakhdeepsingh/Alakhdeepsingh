@@ -25,7 +25,7 @@ My goal is to solve real life problems using technology and create an impact ✨
 - 🤝 I’m looking to collaborate on **Projects and Hackathons**
 
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
  
  <a href="https://linkedin.com/in/alakhdeepsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alakhdeepsingh" height="30" width="40" /></a>
@@ -35,7 +35,39 @@ My goal is to solve real life problems using technology and create an impact ✨
 <a href="https://www.credly.com/users/alakhdeep-singh.615bab6d/badges" target="blank"><img align="center" src="https://github.com/Alakhdeepsingh/Alakhdeepsingh/blob/main/credly.png" alt="alakhdeeps" height="30" width="40" /></a>
 <a href="https://medium.com/@alakhdeepsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="alakhdeepsingh" height="30" width="40" /></a><a href="https://dev.to/alakhdeeps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="alakhdeeps" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UC9N16ZFWsylapMikGovqjkQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dryruncode" height="30" width="40" /></a>
+ -->
+ 
+ ## Connect with me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="20px">
 
+<a href="https://www.linkedin.com/in/alakhdeepsingh/" target="blank" >
+  <img align="left"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a> <a href="mailto:alakhdeepsingh773@gmail.com">
+    <img align="left"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+<a href="https://www.hackerrank.com/alakhdeep_7321" target="blank" >
+    <img align="left" src="https://img.shields.io/badge/Hackerrank-black?style=for-the-badge&logo=hackerrank&logoColor=darkgreen"/>
+  </a>
+  <a href="https://www.leetcode.com/coderking773/" target="_blank">
+    <img align="left"  src="https://img.shields.io/badge/Leetcode-black?style=for-the-badge&logo=leetcode&logoColor=golden" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/alakhdeep/practice">
+    <img align="left"  src="https://img.shields.io/badge/GeeksforGeeks-black?style=for-the-badge&logo=geeksforgeeks&logoColor=green" />
+  </a>
+  <a href="https://www.youtube.com/channel/UC9N16ZFWsylapMikGovqjkQ">
+    <img align="left"src="https://img.shields.io/badge/youtube-black?style=for-the-badge&logo=youtube&logoColor=red" />
+  </a>
+ <a href="https://dev.to/alakhdeeps">
+    <img align="left"src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
+  </a>
+   <a href="https://dev.to/alakhdeeps">
+    <img align="left"src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
+  </a>
+ 
+ 
+ 
+ 
+ 
+ <br>
 <!--  <h2> &nbsp;My Tech Stack</h2> -->
 
  
