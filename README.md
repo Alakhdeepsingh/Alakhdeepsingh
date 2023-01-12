@@ -37,7 +37,7 @@ My goal is to solve real life problems using technology and create an impact ✨
 <a href="https://www.youtube.com/channel/UC9N16ZFWsylapMikGovqjkQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dryruncode" height="30" width="40" /></a>
  -->
  
- ## Connect with me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="20px">
+ ## Connect with me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="10px">
 
 <a href="https://www.linkedin.com/in/alakhdeepsingh/" target="blank" >
   <img align="left"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
