@@ -57,9 +57,9 @@ My goal is to solve real life problems using technology and create an impact ✨
     <img align="left"src="https://img.shields.io/badge/youtube-red?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
   <br>
- <a href="https://medium.com/@alakhdeepsingh">
+<!--  <a href="https://medium.com/@alakhdeepsingh">
     <img align="left"src="https://img.shields.io/badge/medium-0A0A0A?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
+  </a> -->
  
  <br>
  <br>
