@@ -14,7 +14,7 @@ My goal is to solve real life problems using technology and create an impact ✨
 
 - 📓 You can find my **Resume** [here](https://drive.google.com/file/d/1u0aWMyN90tWQxr9ufeT5dhHYbltXwI15/view)
 
-- 📫 **How to reach me** [alakhdeepsingh773@gmail.com](alakhdeepsingh773@gmail.com)
+- 📫 **How to reach me** [alakhdeepsingh773@gmail.com](alakhdeepsingh773@gmail.com), [LinkedIn](https://linkedin.com/in/alakhdeepsingh)
 
 - 🌱 I’m currently learning & practicing **Data Structure & Algorithms**
 
