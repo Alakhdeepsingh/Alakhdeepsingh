@@ -45,26 +45,20 @@ My goal is to solve real life problems using technology and create an impact ✨
     <img align="left"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 <a href="https://www.hackerrank.com/alakhdeep_7321" target="blank" >
-    <img align="left" src="https://img.shields.io/badge/Hackerrank-black?style=for-the-badge&logo=hackerrank&logoColor=darkgreen"/>
+    <img align="left" src="https://img.shields.io/badge/Hackerrank-darkgreen?style=for-the-badge&logo=hackerrank&logoColor=white"/>
   </a>
   <a href="https://www.leetcode.com/coderking773/" target="_blank">
-    <img align="left"  src="https://img.shields.io/badge/Leetcode-black?style=for-the-badge&logo=leetcode&logoColor=golden" />
+    <img align="left"  src="https://img.shields.io/badge/Leetcode-yellow?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
   <a href="https://auth.geeksforgeeks.org/user/alakhdeep/practice">
-    <img align="left"  src="https://img.shields.io/badge/GeeksforGeeks-black?style=for-the-badge&logo=geeksforgeeks&logoColor=green" />
+    <img align="left"  src="https://img.shields.io/badge/GeeksforGeeks-darkgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
   <a href="https://www.youtube.com/channel/UC9N16ZFWsylapMikGovqjkQ">
-    <img align="left"src="https://img.shields.io/badge/youtube-black?style=for-the-badge&logo=youtube&logoColor=red" />
+    <img align="left"src="https://img.shields.io/badge/youtube-red?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
- <a href="https://dev.to/alakhdeeps">
-    <img align="left"src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
+ <a href="https://medium.com/@alakhdeepsingh">
+    <img align="left"src="https://img.shields.io/badge/medium-0A0A0A?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
-   <a href="https://dev.to/alakhdeeps">
-    <img align="left"src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
-  </a>
- 
- 
- 
  
  
  <br>
