@@ -45,8 +45,8 @@ My goal is to solve real life problems using technology and create an impact ✨
 <img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" width="100"/> 
  </a>
    <a href="mailto:alakhdeepsingh773@gmail.com"> 
-    <img align="left"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  height="30" width="100"/>
-  </a>
+    <img align="left"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  height="30" width="70"/>
+  </a>2
 <a href="https://www.hackerrank.com/alakhdeep_7321" target="blank" >
     <img align="left" src="https://img.shields.io/badge/Hackerrank-darkgreen?style=for-the-badge&logo=hackerrank&logoColor=white"  height="30" width="100"/>
   </a>
@@ -59,11 +59,10 @@ My goal is to solve real life problems using technology and create an impact ✨
   <a href="https://www.youtube.com/channel/UC9N16ZFWsylapMikGovqjkQ">
     <img align="left"src="https://img.shields.io/badge/youtube-red?style=for-the-badge&logo=youtube&logoColor=white" height="30" width="100"/>
   </a>
-
  <a href="https://medium.com/@alakhdeepsingh">
     <img align="left"src="https://img.shields.io/badge/medium-0A0A0A?style=for-the-badge&logo=medium&logoColor=white" height="30" width="100"/>
   </a>
-
+  <a href="https://dev.to/prabhkaur301">     <img align="left"src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />   </a>
  <br>
  <br>
 <!--  <h2> My Tech Stack</h2> -->
