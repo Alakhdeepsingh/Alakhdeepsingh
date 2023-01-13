@@ -63,7 +63,7 @@ My goal is to solve real life problems using technology and create an impact ✨
     <img align="left"src="https://img.shields.io/badge/medium-0A0A0A?style=for-the-badge&logo=medium&logoColor=white" height="30" width="80"/>
   </a>
   <a href="https://dev.to/">    
-     <img align="left" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" height="30" width="40"/> 
+     <img align="left" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" height="30" width="70"/> 
   </a>
   
  <br>
