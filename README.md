@@ -14,7 +14,7 @@ My goal is to solve real life problems using technology and create an impact ✨
 
 - 🔷 Currently, I am Actively Looking Full Time position roles in Tech beginning in July 2023.
 
-- 📓 You can find my **Resume** [here](https://drive.google.com/file/d/1u0aWMyN90tWQxr9ufeT5dhHYbltXwI15/view)
+- 📓 You can find my **Resume** [here](https://drive.google.com/file/d/1Ap5Q8cvr6VZBrL8mVhvpyBRtvA8JRref/view)
 
 - 📫 **How to reach me** [Mail](mailto:alakhdeepsingh773@gmail.com) , [LinkedIn](https://linkedin.com/in/alakhdeepsingh)
 
