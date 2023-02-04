@@ -27,7 +27,7 @@ My goal is to solve real life problems using technology and create an impact ✨
 - 🤝 I’m looking to collaborate on **Projects and Hackathons**
 
 
-<!-- <h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">**Connect with me:</h3>
 <p align="left">
  
  <a href="https://linkedin.com/in/alakhdeepsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alakhdeepsingh" height="30" width="40" /></a>
