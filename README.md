@@ -12,7 +12,7 @@
 - I am a Senior doing Information Technology Engineering from GNDEC Ludhiana 🏛️. I am passionate about Full Stack development 🚀 and Open Source Contribution 💻. My areas of interest includes Web Design and Development, Database Management and Competitive Coding. I am a curious person who wants to explore every tech stack 💡 .                                           
 My goal is to solve real life problems using technology and create an impact ✨.
 
-- 🔷 Currently, I am Actively Looking Full Time position roles in Tech beginning in July 2023.
+- 🔷 **I am currently a Software Development Engineer Intern at Blackfig Technologies, and I am actively seeking full-time software developer (front-end, back-end,full stack) positions beginning in June 2023.**
 
 - 📓 You can find my **Resume** [here](https://drive.google.com/file/d/1Ap5Q8cvr6VZBrL8mVhvpyBRtvA8JRref/view)
 
