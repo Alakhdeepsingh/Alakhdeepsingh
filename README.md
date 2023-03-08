@@ -5,8 +5,8 @@
 <img src="https://img.shields.io/badge/-Full stack%20Developer-blue?&style=for-the-badge"/>    <img src="https://img.shields.io/badge/-Frontend%20 ReactJS Developer-red?&style=for-the-badge"/>  <img src="https://img.shields.io/badge/-JavaScript%20Developer-yellow?&style=for-the-badge"/>    <img src="https://img.shields.io/badge/-Backend Developer-green?&style=for-the-badge"/>
 <!-- <img src="https://img.shields.io/badge/-DataStructures & Algorithms-green?&style=for-the-badge"/> -->
 
-![GitHub followers](https://img.shields.io/github/followers/Alakhdeepsingh?label=Follow&style=social)
-<img src="https://komarev.com/ghpvc/?username=alakhdeepsingh&label=Profile%20views&color=0e75b6&style=flat" alt="alakhdeepsingh" />
+<!-- ![GitHub followers](https://img.shields.io/github/followers/Alakhdeepsingh?label=Follow&style=social)
+<img src="https://komarev.com/ghpvc/?username=alakhdeepsingh&label=Profile%20views&color=0e75b6&style=flat" alt="alakhdeepsingh" /> -->
 
  
 - I am a Senior doing Information Technology Engineering from GNDEC Ludhiana 🏛️. I am passionate about Full Stack development 🚀 and Open Source Contribution 💻. My areas of interest includes Web Design and Development, Database Management and Competitive Coding. I am a curious person who wants to explore every tech stack 💡 .                                           
