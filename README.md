@@ -55,8 +55,8 @@ My goal is to solve real life problems using technology and create an impact ✨
 <!--   <a href="https://www.leetcode.com/coderking773/" target="_blank">
     <img align="left"  src="https://img.shields.io/badge/Leetcode-yellow?style=for-the-badge&logo=leetcode&logoColor=white"  height="30" width="90"/>
   </a> -->
-  <a href="https://www.leetcode.com/coderking773/">
-  <img src="https://img.shields.io/badge/Leetcode-orange?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  <a href="https://www.leetcode.com/coderking773/" target="_blank">
+  <img align="left"  src="https://img.shields.io/badge/Leetcode-orange?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
   <a href="https://auth.geeksforgeeks.org/user/alakhdeep/practice">
     <img align="left"  src="https://img.shields.io/badge/GeeksforGeeks-darkgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white" height="30" width="110"/>
