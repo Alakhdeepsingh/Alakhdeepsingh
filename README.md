@@ -90,6 +90,7 @@ My goal is to solve real life problems using technology and create an impact ✨
     [![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)](https://sass-lang.com/)
     [![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)](https://reactjs.org/)
     [![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=material-ui&logoColor=white)](https://material-ui.com/)
+    [![Angular](https://img.shields.io/badge/Angular-E34F26?style=flat&logo=angular&logoColor=white)](https://angular.io/)
     [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
     
 - Backend : <br />
