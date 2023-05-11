@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Developer , Full Stack Developer & Teacher from India</h3>
 
 #### 
-<img src="https://img.shields.io/badge/-Full stack%20Developer-blue?&style=for-the-badge"/>    <img src="https://img.shields.io/badge/-Frontend%20 ReactJS Developer-red?&style=for-the-badge"/>  <img src="https://img.shields.io/badge/-JavaScript%20Developer-yellow?&style=for-the-badge"/>    <img src="https://img.shields.io/badge/-Backend Developer-green?&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-Full stack%20Developer-blue?&style=for-the-badge"/>    <img src="https://img.shields.io/badge/-Frontend%20 ReactJS Developer-red?&style=for-the-badge"/>  <img src="https://img.shields.io/badge/-JavaScript%20Developer-yellow?&style=for-the-badge"/>    <img src="https://img.shields.io/badge/-Backend NodeJS Developer-green?&style=for-the-badge"/>
 <!-- <img src="https://img.shields.io/badge/-DataStructures & Algorithms-green?&style=for-the-badge"/> -->
 
 <!-- ![GitHub followers](https://img.shields.io/github/followers/Alakhdeepsingh?label=Follow&style=social)
@@ -89,9 +89,9 @@ My goal is to solve real life problems using technology and create an impact ✨
     [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://www.w3.org/html/)
     [![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)](https://sass-lang.com/)
     [![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-    [![Angular](https://img.shields.io/badge/Angular-E34F26?style=flat&logo=angular&logoColor=white)](https://angular.io/)
     [![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=material-ui&logoColor=white)](https://material-ui.com/)
-    [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
+<!--     [![Angular](https://img.shields.io/badge/Angular-E34F26?style=flat&logo=angular&logoColor=white)](https://angular.io/) -->
+<!--     [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)](https://getbootstrap.com) -->
     
 - Backend : <br />
     [![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)](https://nodejs.org)
