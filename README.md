@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Developer , Full Stack Developer & Teacher from India</h3>
 
 #### 
-<img src="https://img.shields.io/badge/-Full stack%20Developer-blue?&style=for-the-badge"/>    <img src="https://img.shields.io/badge/-Frontend%20 ReactJS Developer-red?&style=for-the-badge"/>     <img src="https://img.shields.io/badge/-Backend NodeJS Developer-green?&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-Full stack%20 MERN Developer-blue?&style=for-the-badge"/>    <img src="https://img.shields.io/badge/-Frontend%20 ReactJS Developer-red?&style=for-the-badge"/>     <img src="https://img.shields.io/badge/-Backend NodeJS Developer-green?&style=for-the-badge"/>
 <!-- <img src="https://img.shields.io/badge/-DataStructures & Algorithms-green?&style=for-the-badge"/> -->
 
 <!-- ![GitHub followers](https://img.shields.io/github/followers/Alakhdeepsingh?label=Follow&style=social)
