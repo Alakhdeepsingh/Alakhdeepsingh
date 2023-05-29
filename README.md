@@ -82,7 +82,6 @@ My goal is to solve real life problems using technology and create an impact ✨
 - Programming languages : <br />
     [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://www.cplusplus.com/)
     [![JavaScript](	https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
-    [![TypeScript](https://img.shields.io/badge/TypeScript-0081CB?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
     
     
 - Frontend : <br />
