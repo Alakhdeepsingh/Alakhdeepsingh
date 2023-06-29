@@ -12,7 +12,7 @@
 - I am an Information Technology Engineering graduate of 2023 with a BTech degree from GNDEC Ludhiana 🏛️. I am passionate about Full Stack development 🚀 and Open Source Contribution 💻. My areas of interest includes Web Design and Development, Database Management and Competitive Coding. I am a curious person who wants to explore every tech stack 💡 .                                           
 My goal is to solve real life problems using technology and create an impact ✨.
 
-- 🔷 **I am currently a Full Stack Engineer at RKS Cloud**.
+- 🔷 **I am currently working as a Full Stack Engineer at RKS Cloud**.
 
 - 📓 You can find my **Resume** [here](https://drive.google.com/file/d/1Ap5Q8cvr6VZBrL8mVhvpyBRtvA8JRref/view)
 
