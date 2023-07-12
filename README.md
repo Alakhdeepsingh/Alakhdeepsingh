@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Developer , Full Stack Developer & Teacher from India</h3>
 
 #### 
-<img src="https://img.shields.io/badge/-Full stack%20 MERN Developer-blue?&style=for-the-badge"/>    <img src="https://img.shields.io/badge/-Frontend%20 ReactJS Developer-red?&style=for-the-badge"/>     <img src="https://img.shields.io/badge/-Backend ExpressJS & Java Developer-green?&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-Full stack%20 MERN Developer-blue?&style=for-the-badge"/>    <img src="https://img.shields.io/badge/-Frontend%20 ReactJS Developer-red?&style=for-the-badge"/>     <img src="https://img.shields.io/badge/-Backend NodeJS, ExpressJS Developer-green?&style=for-the-badge"/>
 <!-- <img src="https://img.shields.io/badge/-DataStructures & Algorithms-green?&style=for-the-badge"/> -->
 
 <!-- ![GitHub followers](https://img.shields.io/github/followers/Alakhdeepsingh?label=Follow&style=social)
@@ -20,7 +20,7 @@ My goal is to solve real life problems using technology and create an impact ✨
 
 - 🌱 I’m currently learning & practicing **Data Structure & Algorithms**
 
-- 💬 **Ask me about anything like Javascript, MERN, DSA, Java, Cpp** (would definitely try helping you out)    
+- 💬 **Ask me about anything like Javascript, MERN, DSA, Cpp** (would definitely try helping you out)    
 
 - 👨‍💻 All of my **projects** are available at [My Portfolio](https://alakhdeepsingh.github.io/Portfolio/) 
  
@@ -82,7 +82,6 @@ My goal is to solve real life problems using technology and create an impact ✨
 - Programming languages : <br />
     [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://www.cplusplus.com/)
     [![JavaScript](	https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-   [![Java](https://img.shields.io/badge/Java-E34F26?style=flat&logo=java&logoColor=black)](https://www.java.com/)
     
     
 - Frontend : <br />
