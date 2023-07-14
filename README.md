@@ -14,7 +14,7 @@ My goal is to solve real life problems using technology and create an impact ✨
 
 - 🔷 **I am currently working as a Full Stack Engineer at RKS Cloud**.
 
-- 📓 You can find my **Resume** [here](https://drive.google.com/file/d/1Ap5Q8cvr6VZBrL8mVhvpyBRtvA8JRref/view)
+- 📓 You can find my **Resume** [here](https://drive.google.com/file/d/1sLLlq3BSfFJEeqrNF_FX6yQNKOVI_g5b/view)
 
 - 📫 **How to reach me** [Mail](mailto:alakhdeepsingh773@gmail.com) , [LinkedIn](https://linkedin.com/in/alakhdeepsingh)
 
