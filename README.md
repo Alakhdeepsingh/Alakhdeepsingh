@@ -18,7 +18,7 @@ My goal is to solve real-life problems using technology and create an impact ✨
 
 - 📫 **How to reach me** [Mail](mailto:alakhdeepsingh773@gmail.com) , [LinkedIn](https://linkedin.com/in/alakhdeepsingh)
 
-- 🌱 I’m currently learning & practicing **Data Structure & Algorithms**
+- 🌱 I’m currently learning & practicing **JavaScript & ReactJS**
 
 - 💬 **Ask me about anything like Javascript, MERN, DSA, Cpp** (would definitely try helping you out)    
 
