@@ -12,7 +12,7 @@
 - I am an Information Technology Engineering graduate of 2023 with a BTech degree from GNDEC Ludhiana 🏛️. I am passionate about Full Stack development 🚀 and Open Source Contribution 💻. My areas of interest include Web Design and Development, Database Management, and Competitive Coding. I am a curious person who wants to explore every tech stack 💡 .                                           
 My goal is to solve real-life problems using technology and create an impact ✨.
 
-- 🔷 **I am currently looking for Intern/Full-Time opportunities in the Tech Industry, specifically in a Frontend role.**.
+- 🔷 **I am currently looking for Full-Time opportunities in the Tech, specifically in a Frontend role.**.
 
 - 📓 You can find my **Resume** [here](https://drive.google.com/file/d/1sLLlq3BSfFJEeqrNF_FX6yQNKOVI_g5b/view)
 
