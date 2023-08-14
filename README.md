@@ -61,9 +61,9 @@ My goal is to solve real-life problems using technology and create an impact ✨
   <a href="https://auth.geeksforgeeks.org/user/alakhdeep/practice">
     <img align="left"  src="https://img.shields.io/badge/GeeksforGeeks-darkgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white" height="30" width="110"/>
   </a>
-   <a href="https://nados.io/profile/98a55820-51b0-4d2f-9a4d-fe1c843b9367">    
+<!--    <a href="https://nados.io/profile/98a55820-51b0-4d2f-9a4d-fe1c843b9367">    
      <img align="left" src="https://img.shields.io/badge/nados-red?style=for-the-badge&logo=nados&logoColor=white" height="30" width="60"/> 
-  </a>
+  </a> -->
   <a href="https://www.credly.com/users/alakhdeep-singh.615bab6d/badges">
     <img align="left"src="https://img.shields.io/badge/credly-orange?style=for-the-badge&logo=credly&logoColor=white" height="30" width="80"/>
   </a>
