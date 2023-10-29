@@ -9,7 +9,7 @@
 <img src="https://komarev.com/ghpvc/?username=alakhdeepsingh&label=Profile%20views&color=0e75b6&style=flat" alt="alakhdeepsingh" /> -->
 
  
-- I am an Information Technology Engineering graduate of 2023 with a BTech degree from GNDEC Ludhiana 🏛️. I am passionate about Full Stack development 🚀 and Open Source Contribution 💻. My areas of interest include Web Design and Development, Database Management, and Competitive Coding. I am a curious person who wants to explore every tech stack 💡 .                                           
+- I am an Information Technology Engineering graduate of 2023 with a BTech degree from GNDEC Ludhiana 🏛️. As a passionate Frontend Developer 💻 and Open Source Contribution, I have proficiency in React.js, TypeScript, Redux, JavaScript, HTML, and CSS. I specialize in building dynamic and intuitive web applications that provide exceptional user experiences. With a solid foundation in frontend technologies, I am dedicated to crafting clean and efficient code. Let's connect and discuss how I can contribute to your next front-end project.                                         
 My goal is to solve real-life problems using technology and create an impact ✨.
 
 - 🔷 **I am currently looking for Full-Time opportunities in the Tech.**
