@@ -9,7 +9,7 @@
 <img src="https://komarev.com/ghpvc/?username=alakhdeepsingh&label=Profile%20views&color=0e75b6&style=flat" alt="alakhdeepsingh" /> -->
 
  
-- I am passionate about Frontend Developer 💻 and Open Source Contribution, I have proficiency in ReactJS, TypeScript, Redux, JavaScript, HTML, and CSS. I specialize in building dynamic and intuitive web applications that provide exceptional user experiences. With a solid foundation in frontend technologies, I am dedicated to crafting clean and efficient code. My goal is to solve real life problems using technology and create an impact ✨.
+- I am passionate about Frontend Developer 💻 and Open Source Contribution, I have proficiency in ReactJS, TypeScript, Redux, JavaScript, HTML, and CSS. I specialize in building dynamic and intuitive web applications that provide exceptional user experiences. With a solid foundation in frontend technologies, I am dedicated to crafting clean and efficient code.✨
 
 - 🔷 **I am currently looking for Full-Time opportunities in the Tech.**
 
