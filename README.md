@@ -106,8 +106,8 @@
 - IDE & Tools : <br />
     [![VS Code](http://img.shields.io/badge/-VS%20Code-5C2D91?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
     [![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)](https://heroku.com)
+    [![Vercel](https://img.shields.io/badge/Vercel-black?style=flat&logo=vercel&logoColor=white)](https://vercel.com/)
     [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
-
 
  
 <!-- <h3 align="left">Languages and Tools:</h3>
