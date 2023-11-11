@@ -96,14 +96,14 @@
 <!--     [![Angular](https://img.shields.io/badge/Angular-E34F26?style=flat&logo=angular&logoColor=white)](https://angular.io/) -->
 <!--     [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)](https://getbootstrap.com) -->
     
-- Backend : <br />
+<!--  - Backend : <br />
     [![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)](https://nodejs.org)
     [![ExpressJS](https://img.shields.io/badge/Express.js-43853D?style=flat&logo=express.js&logoColor=white)](https://expressjs.org)
  
   
 - Databases :  <br />
     [![Firebase](https://img.shields.io/badge/-Firebase-2C2D72?style=flat&logo=firebase&logoColor=FFCA28)](https://firebase.google.com/)
-    [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+    [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/) -->
  
 - IDE & Tools : <br />
     [![VS Code](http://img.shields.io/badge/-VS%20Code-5C2D91?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
