@@ -79,10 +79,9 @@
  <h2> &nbsp;My Tech Stack</h2>
 
 - Programming languages : <br />
-    [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://www.cplusplus.com/)
     [![JavaScript](	https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-   [![TypeScript](	https://img.shields.io/badge/TypeScript-0081CB?style=flat&logo=typeScript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/TypeScript)
-    
+    [![TypeScript](	https://img.shields.io/badge/TypeScript-0081CB?style=flat&logo=typeScript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/TypeScript)
+    [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://www.cplusplus.com/)
     
 - Frontend : <br />
     [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://www.w3.org/html/)
