@@ -1,4 +1,4 @@
-<h2 align="center"> Hi 👋, I'm <a href="https://alakhdeepsingh.github.io/Portfolio/" target="blank">Alakhdeep Singh </a> </h2>
+<h1 align="center"> Hi 👋, I'm <a href="https://alakhdeepsingh.github.io/Portfolio/" target="blank">Alakhdeep Singh </a> </h1>
 <h3 align="center">A passionate Software Developer , Front-end Engineer & Teacher from India</h3>
 
 #### 
