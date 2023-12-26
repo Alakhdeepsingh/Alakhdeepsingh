@@ -74,9 +74,48 @@
  <br>
 
 
+ ## Skills 🎯
+
+<table style="width: 100%;">
+  <tr>
+    <td style="width: 50%; vertical-align: top;"><strong>💻 Front-end Technologies:</strong></td>
+    <td style="width: 50%; vertical-align: top;"><strong>🚀 Other Skills:</strong></td>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li><img src="https://skillicons.dev/icons?i=react" width="16px" style="vertical-align: middle;"/> React.js</li>
+        <li><img src="https://skillicons.dev/icons?i=nextjs" width="16px" style="vertical-align: middle;"/> Next.js</li>
+        <li><img src="https://skillicons.dev/icons?i=redux" width="16px" style="vertical-align: middle;"/> Redux</li>
+        <li><img src="https://skillicons.dev/icons?i=js" width="16px" style="vertical-align: middle;"/> JavaScript (ES6+)</li>
+        <li><img src="https://skillicons.dev/icons?i=ts" width="16px" style="vertical-align: middle;"/> TypeScript</li>
+        <li><img src="https://skillicons.dev/icons?i=html" width="16px" style="vertical-align: middle;"/> HTML5</li>
+        <li><img src="https://skillicons.dev/icons?i=css" width="16px" style="vertical-align: middle;"/> CSS3</li>
+        <li><img src="https://skillicons.dev/icons?i=css" width="16px" style="vertical-align: middle;"/> Responsive Web Design</li>
+        <li><img src="https://skillicons.dev/icons?i=materialui" width="16px" style="vertical-align: middle;"/> MUI</li>
+        <li><img src="https://skillicons.dev/icons?i=tailwind" width="16px" style="vertical-align: middle;"/> Tailwind CSS</li>
+        <li><img src="https://skillicons.dev/icons?i=fastapi" width="16px" style="vertical-align: middle;"/> RESTful APIs</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li><img src="https://skillicons.dev/icons?i=vercel" width="16px" style="vertical-align: middle;"/> Vercel</li>
+        <li><img src="https://skillicons.dev/icons?i=webpack" width="16px" style="vertical-align: middle;"/> Webpack</li>
+        <li><img src="https://skillicons.dev/icons?i=babel" width="16px" style="vertical-align: middle;"/> Babel</li>
+        <li><img src="https://skillicons.dev/icons?i=git" width="16px" style="vertical-align: middle;"/> Git</li>
+        <li><img src="https://skillicons.dev/icons?i=jest" width="16px" style="vertical-align: middle;"/> Unit Testing</li>
+        <li>⚡ Performance Optimization</li>
+        <li>📈 Scalability</li>
+        <li>👥 Team Collaboration</li>
+        <li>❓ Problem Solving</li>
+        <li>📚 Continuous Learning</li>
+        <li>⏰ Time Management</li>
+      </ul>
+    </td>
+  </tr>
+</table>
  
- 
- <h2> &nbsp;My Tech Stack</h2>
+ <!-- <h2> &nbsp;My Tech Stack</h2>
 
 - Programming languages : <br />
     [![JavaScript](	https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -103,13 +142,13 @@
   
 - Databases :  <br />
     [![Firebase](https://img.shields.io/badge/-Firebase-2C2D72?style=flat&logo=firebase&logoColor=FFCA28)](https://firebase.google.com/)
-    [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/) -->
+    [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
  
 - IDE & Tools : <br />
     [![VS Code](http://img.shields.io/badge/-VS%20Code-5C2D91?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
     [![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)](https://heroku.com)
     [![Vercel](https://img.shields.io/badge/Vercel-black?style=flat&logo=vercel&logoColor=white)](https://vercel.com/)
-    [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
+    [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/) -->
 
 
 <!-- <h3 align="left">Languages and Tools:</h3>
