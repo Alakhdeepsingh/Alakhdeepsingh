@@ -87,9 +87,10 @@
     [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://www.w3.org/html/)
     [![CSS](https://img.shields.io/badge/CSS-blue?style=flat&logo=css&logoColor=white)](https://www.w3.org/css/)
     [![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)](https://sass-lang.com/)
+    [![TailwindCSS](https://img.shields.io/badge/tailwindcss-blue?style=flat&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
     [![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)](https://reactjs.org/)
     [![Redux](https://img.shields.io/badge/Redux-5C2D91?style=flat&logo=redux&logoColor=white)](https://redux.org/)
-     <!-- [![Next.js](https://img.shields.io/badge/Next.js-20232A?style=flat&logo=nextjs&logoColor=61DAFB)](https://nextjs.org/)-->
+    [![Next.js](https://img.shields.io/badge/Next.js-20232A?style=flat&logo=nextjs&logoColor=61DAFB)](https://nextjs.org/)
   
    <!--  [![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=material-ui&logoColor=white)](https://material-ui.com/) -->
 <!--     [![Angular](https://img.shields.io/badge/Angular-E34F26?style=flat&logo=angular&logoColor=white)](https://angular.io/) -->
