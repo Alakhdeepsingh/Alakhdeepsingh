@@ -16,8 +16,6 @@
 - 📓 You can find my **Resume** [here](https://drive.google.com/file/d/1sLLlq3BSfFJEeqrNF_FX6yQNKOVI_g5b/view)
 
 - 📫 **How to reach me** [Mail](mailto:alakhdeepsingh773@gmail.com) , [LinkedIn](https://linkedin.com/in/alakhdeepsingh)
-
-- 💬 Ask me about anything like Javascript, TypeScript, ReactJS, Redux, DSA, Cpp
   
 - 👨‍💻 All of my **projects** are available at [My Portfolio](https://alakhdeepsingh.github.io/Portfolio/) 
  
