@@ -82,8 +82,8 @@
   <tr>
     <td>
       <ul>
+       <li><img src="https://skillicons.dev/icons?i=nextjs" width="16px" style="vertical-align: middle;"/> Next.js</li>
         <li><img src="https://skillicons.dev/icons?i=react" width="16px" style="vertical-align: middle;"/> React.js</li>
-        <li><img src="https://skillicons.dev/icons?i=nextjs" width="16px" style="vertical-align: middle;"/> Next.js</li>
         <li><img src="https://skillicons.dev/icons?i=redux" width="16px" style="vertical-align: middle;"/> Redux</li>
         <li><img src="https://skillicons.dev/icons?i=js" width="16px" style="vertical-align: middle;"/> JavaScript (ES6+)</li>
         <li><img src="https://skillicons.dev/icons?i=ts" width="16px" style="vertical-align: middle;"/> TypeScript</li>
