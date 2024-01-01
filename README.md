@@ -17,7 +17,9 @@
 
 - 📫 **How to reach me** [Mail](mailto:alakhdeepsingh773@gmail.com) , [LinkedIn](https://linkedin.com/in/alakhdeepsingh)
   
-- 👨‍💻 All of my **projects** are available at [My Portfolio](https://alakhdeepsingh.github.io/Portfolio/) 
+- 👨‍💻 All of my **projects** are available at [My Portfolio](https://alakhdeepsingh.github.io/Portfolio/)
+
+- 💬 Ask me about **Frontend Development**
  
 - 🤝 I’m looking to collaborate on **Projects and Hackathons**
 
