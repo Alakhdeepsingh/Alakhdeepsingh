@@ -64,9 +64,9 @@
   <a href="https://www.credly.com/users/alakhdeep-singh.615bab6d/badges">
     <img align="left"src="https://img.shields.io/badge/credly-orange?style=for-the-badge&logo=credly&logoColor=white" height="30" width="80"/>
   </a>
-  <a href="https://medium.com/@alakhdeepsingh">
+<!--   <a href="https://medium.com/@alakhdeepsingh">
     <img align="left"src="https://img.shields.io/badge/medium-0A0A0A?style=for-the-badge&logo=medium&logoColor=white" height="30" width="70"/>
-  </a>
+  </a> -->
 <!--     <a href="https://dev.to/alakhdeeps">    
      <img align="left" src="https://img.shields.io/badge/dev-black?style=for-the-badge&logo=dev&logoColor=white" height="30" width="60"/> 
   </a>
