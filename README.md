@@ -46,6 +46,9 @@
    <a href="mailto:alakhdeepsingh773@gmail.com"> 
     <img align="left"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  height="30" width="70"/>
   </a>
+   <a href="https://twitter.com/alakhdeep_singh">
+    <img align="left"src="https://img.shields.io/badge/twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" height="30" width="90"/>
+  </a>
 <a href="https://www.hackerrank.com/alakhdeep_7321" target="blank" >
     <img align="left" src="https://img.shields.io/badge/Hackerrank-darkgreen?style=for-the-badge&logo=hackerrank&logoColor=white"  height="30" width="100"/>
   </a>
@@ -61,12 +64,12 @@
   <a href="https://www.credly.com/users/alakhdeep-singh.615bab6d/badges">
     <img align="left"src="https://img.shields.io/badge/credly-orange?style=for-the-badge&logo=credly&logoColor=white" height="30" width="80"/>
   </a>
-    <a href="https://dev.to/alakhdeeps">    
+<!--     <a href="https://dev.to/alakhdeeps">    
      <img align="left" src="https://img.shields.io/badge/dev-black?style=for-the-badge&logo=dev&logoColor=white" height="30" width="60"/> 
   </a>
  <a href="https://medium.com/@alakhdeepsingh">
     <img align="left"src="https://img.shields.io/badge/medium-0A0A0A?style=for-the-badge&logo=medium&logoColor=white" height="30" width="80"/>
-  </a>
+  </a> -->
   
  <br>
  <br>
