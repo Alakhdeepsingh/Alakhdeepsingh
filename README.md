@@ -50,7 +50,7 @@
     <img align="left"src="https://img.shields.io/badge/twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" height="30" width="90"/>
   </a>
 <a href="https://www.hackerrank.com/alakhdeep_7321" target="blank" >
-    <img align="left" src="https://img.shields.io/badge/Hackerrank-darkgreen?style=for-the-badge&logo=hackerrank&logoColor=white"  height="30" width="100"/>
+    <img align="left" src="https://img.shields.io/badge/Hackerrank-darkgreen?style=for-the-badge&logo=hackerrank&logoColor=white"  height="30" width="110"/>
   </a>
 <!--   <a href="https://www.leetcode.com/coderking773/" target="_blank">
     <img align="left"  src="https://img.shields.io/badge/Leetcode-yellow?style=for-the-badge&logo=leetcode&logoColor=white"  height="30" width="90"/>
@@ -59,7 +59,7 @@
   <img align="left"  src="https://img.shields.io/badge/Leetcode-orange?style=for-the-badge&logo=leetcode&logoColor=black" height="30" width="90"/>
 </a>
   <a href="https://auth.geeksforgeeks.org/user/alakhdeep/practice">
-    <img align="left"  src="https://img.shields.io/badge/GeeksforGeeks-darkgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white" height="30" width="110"/>
+    <img align="left"  src="https://img.shields.io/badge/GeeksforGeeks-darkgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white" height="30" width="120"/>
   </a>
   <a href="https://www.credly.com/users/alakhdeep-singh.615bab6d/badges">
     <img align="left"src="https://img.shields.io/badge/credly-orange?style=for-the-badge&logo=credly&logoColor=white" height="30" width="80"/>
