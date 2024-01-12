@@ -44,7 +44,7 @@
 <img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" width="100"/> 
  </a>
    <a href="mailto:alakhdeepsingh773@gmail.com"> 
-    <img align="left"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  height="30" width="70"/>
+    <img align="left"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  height="30" width="80"/>
   </a>
    <a href="https://twitter.com/alakhdeep_singh">
     <img align="left"src="https://img.shields.io/badge/twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" height="30" width="90"/>
