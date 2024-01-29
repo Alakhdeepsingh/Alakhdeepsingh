@@ -23,18 +23,6 @@
  
 - 🤝 I’m looking to collaborate on **Projects and Hackathons**
 
-
-<!-- <h3 align="left">**Connect with me:</h3>
-<p align="left">
- 
- <a href="https://linkedin.com/in/alakhdeepsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alakhdeepsingh" height="30" width="40" /></a>
- <a href="https://www.hackerrank.com/alakhdeep_7321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="alakhdeep_7321" height="30" width="40" /></a>
- <a href="https://www.leetcode.com/coderking773/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="coderking773/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/alakhdeep/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="alakhdeep/practice" height="30" width="40" /> 
-<a href="https://www.credly.com/users/alakhdeep-singh.615bab6d/badges" target="blank"><img align="center" src="https://github.com/Alakhdeepsingh/Alakhdeepsingh/blob/main/credly.png" alt="alakhdeeps" height="30" width="40" /></a>
-<a href="https://medium.com/@alakhdeepsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="alakhdeepsingh" height="30" width="40" /></a><a href="https://dev.to/alakhdeeps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="alakhdeeps" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UC9N16ZFWsylapMikGovqjkQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dryruncode" height="30" width="40" /></a>
- -->
  
  ## Connect with me 
 
@@ -49,25 +37,6 @@
 <a href="https://www.hackerrank.com/alakhdeep_7321" target="blank" >
     <img align="left" src="https://img.shields.io/badge/Hackerrank-darkgreen?style=for-the-badge&logo=hackerrank&logoColor=white"  height="30" width="110"/>
   </a>
-<!--   <a href="https://www.leetcode.com/coderking773/" target="_blank">
-    <img align="left"  src="https://img.shields.io/badge/Leetcode-yellow?style=for-the-badge&logo=leetcode&logoColor=white"  height="30" width="90"/>
-  </a> -->
-  <a href="https://www.leetcode.com/coderking773/" target="_blank">
-  <img align="left"  src="https://img.shields.io/badge/Leetcode-orange?style=for-the-badge&logo=leetcode&logoColor=black" height="30" width="90"/>
-</a>
-  <a href="https://auth.geeksforgeeks.org/user/alakhdeep/practice">
-    <img align="left"  src="https://img.shields.io/badge/GeeksforGeeks-darkgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white" height="30" width="120"/>
-  </a>
-  <a href="https://www.credly.com/users/alakhdeep-singh.615bab6d/badges">
-    <img align="left"src="https://img.shields.io/badge/credly-orange?style=for-the-badge&logo=credly&logoColor=white" height="30" width="80"/>
-  </a>
-<!--   <a href="https://medium.com/@alakhdeepsingh">
-    <img align="left"src="https://img.shields.io/badge/medium-0A0A0A?style=for-the-badge&logo=medium&logoColor=white" height="30" width="70"/>
-  </a> -->
-<!--     <a href="https://dev.to/alakhdeeps">    
-     <img align="left" src="https://img.shields.io/badge/dev-black?style=for-the-badge&logo=dev&logoColor=white" height="30" width="60"/> 
-  </a>
-  -->
   
  <br>
  <br>
