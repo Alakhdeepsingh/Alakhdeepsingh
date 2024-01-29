@@ -44,15 +44,15 @@
 
  ## Skills 🎯
 
-<table style="width: 100%;">
+<table style="width: 90%;">
   <tr>
-    <td style="width: 50%; vertical-align: top;"><strong>💻 Front-end Technologies:</strong></td>
+    <td style="width: 40%; vertical-align: top;"><strong>💻 Front-end Technologies:</strong></td>
     <td style="width: 50%; vertical-align: top;"><strong>🚀 Other Skills:</strong></td>
   </tr>
   <tr>
     <td>
       <ul>
-       <li><img src="https://skillicons.dev/icons?i=nextjs" width="16px" style="vertical-align: middle;"/> Next.js</li>
+<!--        <li><img src="https://skillicons.dev/icons?i=nextjs" width="16px" style="vertical-align: middle;"/> Next.js</li> -->
         <li><img src="https://skillicons.dev/icons?i=react" width="16px" style="vertical-align: middle;"/> React.js</li>
         <li><img src="https://skillicons.dev/icons?i=redux" width="16px" style="vertical-align: middle;"/> Redux</li>
         <li><img src="https://skillicons.dev/icons?i=js" width="16px" style="vertical-align: middle;"/> JavaScript (ES6+)</li>
@@ -62,7 +62,7 @@
         <li><img src="https://skillicons.dev/icons?i=css" width="16px" style="vertical-align: middle;"/> Responsive Web Design</li>
         <li><img src="https://skillicons.dev/icons?i=materialui" width="16px" style="vertical-align: middle;"/> MUI</li>
         <li><img src="https://skillicons.dev/icons?i=tailwind" width="16px" style="vertical-align: middle;"/> Tailwind CSS</li>
-        <li><img src="https://skillicons.dev/icons?i=fastapi" width="16px" style="vertical-align: middle;"/> RESTful APIs</li>
+<!--         <li><img src="https://skillicons.dev/icons?i=fastapi" width="16px" style="vertical-align: middle;"/> RESTful APIs</li> -->
       </ul>
     </td>
     <td>
@@ -72,8 +72,8 @@
         <li><img src="https://skillicons.dev/icons?i=babel" width="16px" style="vertical-align: middle;"/> Babel</li>
         <li><img src="https://skillicons.dev/icons?i=git" width="16px" style="vertical-align: middle;"/> Git</li>
         <li><img src="https://skillicons.dev/icons?i=jest" width="16px" style="vertical-align: middle;"/> Unit Testing</li>
-        <li>⚡ Performance Optimization</li>
-        <li>📈 Scalability</li>
+<!--         <li>⚡ Performance Optimization</li> -->
+<!--         <li>📈 Scalability</li> -->
         <li>👥 Team Collaboration</li>
         <li>❓ Problem Solving</li>
         <li>📚 Continuous Learning</li>
