@@ -9,7 +9,7 @@
 <img src="https://komarev.com/ghpvc/?username=alakhdeepsingh&label=Profile%20views&color=0e75b6&style=flat" alt="alakhdeepsingh" /> -->
 
  
-- I am passionate Frontend Developer 💻 and Open Source Contributor, I have proficiency in NextJS, ReactJS, Redux, TypeScript, JavaScript, HTML, CSS and TailwindCSS. I specialize in building dynamic, intuitive, user-friendly and scalable web applications that provide exceptional user experiences. With a solid foundation in frontend technologies, I am dedicated to crafting clean and efficient code.✨ Let's connect and discuss how I can contribute to your next front-end project.
+- I am passionate Frontend Developer 💻 and Open Source Contributor, I have proficiency in ReactJS, Redux, TypeScript, JavaScript, HTML, CSS and TailwindCSS. I specialize in building dynamic, intuitive, user-friendly and scalable web applications that provide exceptional user experiences. With a solid foundation in frontend technologies, I am dedicated to crafting clean and efficient code.✨ Let's connect and discuss how I can contribute to your next front-end project.
 
 - 🔷 **I am currently looking for Full-Time opportunities in the Tech.**
 
