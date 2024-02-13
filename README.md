@@ -33,7 +33,7 @@
     <img align="left"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  height="30" width="100"/>
   </a>
 <a href="https://www.hackerrank.com/alakhdeep_7321" target="blank" >
-    <img align="left" src="https://img.shields.io/badge/Hackerrank-darkgreen?style=for-the-badge&logo=hackerrank&logoColor=white"  height="30" width="120"/>
+    <img align="left" src="https://img.shields.io/badge/Hackerrank-darkgreen?style=for-the-badge&logo=hackerrank&logoColor=white"  height="30" width="140"/>
   </a>
   
  <br>
