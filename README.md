@@ -1,5 +1,5 @@
 <h1 align="center"> Hi 👋, I'm <a href="https://alakhdeepsingh.github.io/Portfolio/" target="blank">Alakhdeep Singh </a> </h1>
-<h3 align="center">A passionate Front-End Engineer from India</h3>
+<h3 align="center">A passionate Front-End Developer from India</h3>
 
 #### 
 <!-- <img src="https://img.shields.io/badge/-Full stack%20 MERN Developer-blue?&style=for-the-badge"/>    <img src="https://img.shields.io/badge/-Frontend%20 ReactJS Developer-red?&style=for-the-badge"/>     <img src="https://img.shields.io/badge/-Backend NodeJS ExpressJS Developer-green?&style=for-the-badge"/> -->
