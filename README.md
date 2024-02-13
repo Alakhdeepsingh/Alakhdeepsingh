@@ -11,8 +11,6 @@
  
 - I am passionate Frontend Developer 💻 and Open Source Contributor, I have proficiency in ReactJS, Redux, TypeScript, JavaScript, HTML, CSS and TailwindCSS. I specialize in building dynamic, intuitive, user-friendly and scalable web applications that provide exceptional user experiences. With a solid foundation in frontend technologies, I am dedicated to crafting clean and efficient code.✨ Let's connect and discuss how I can contribute to your next front-end project.
 
-- 🔷 **I am currently looking for Full-Time opportunities in the Tech.**
-
 - 📓 You can find my **Resume** [here](https://drive.google.com/file/d/1sLLlq3BSfFJEeqrNF_FX6yQNKOVI_g5b/view)
 
 - 📫 **How to reach me** [Mail](mailto:alakhdeepsingh773@gmail.com) , [LinkedIn](https://linkedin.com/in/alakhdeepsingh)
