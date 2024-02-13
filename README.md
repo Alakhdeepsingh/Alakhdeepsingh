@@ -22,23 +22,9 @@
 - 🤝 I’m looking to collaborate on **Projects and Hackathons**
 
  
- ## Connect with me 
-
-
-
-<a href="https://www.linkedin.com/in/alakhdeepsingh/" target="blank" >
-<img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" width="120"/> 
- </a>
-   <a href="mailto:alakhdeepsingh773@gmail.com"> 
-    <img align="left"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  height="30" width="100"/>
-  </a>
-<a href="https://www.hackerrank.com/alakhdeep_7321" target="blank" >
+<!-- <a href="https://www.hackerrank.com/alakhdeep_7321" target="blank" >
     <img align="left" src="https://img.shields.io/badge/Hackerrank-darkgreen?style=for-the-badge&logo=hackerrank&logoColor=white"  height="30" width="140"/>
-  </a>
-  
- <br>
- <br>
-
+  </a> -->
 
  ## Skills 🎯
 
@@ -125,8 +111,15 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alakhdeepsingh&show_icons=true&locale=en&layout=compact" alt="alakhdeepsingh" /><img height="200em" src="https://github-readme-stats.vercel.app/api?username=Alakhdeepsingh&theme=buefy&show_icons=true" /> 
  <!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alakhdeepsingh&" alt="alakhdeepsingh" /> -->
  <hr>
- <p align="center">
-    <i>Take a look at my repositories and let's get in touch!</i><br><br>
-   <img alt="hackerrank" title="hackerrank" src="https://img.shields.io/badge/Thank-You-ff69b4.svg"/>
+<p align="center">
+  <i>Take a look at my repositories and let's get in touch!</i>
+  <div align="center">
+ <h2>Connect with me 🤝</h2>
+    <a href="https://www.linkedin.com/in/alakhdeepsingh/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" width="120" alt="LinkedIn">
+    </a>
+    <a href="mailto:alakhdeepsingh773@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" width="100" alt="Gmail">
+    </a>
+  </div>
 </p>
- 
