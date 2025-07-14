@@ -46,7 +46,7 @@
         <li><img src="https://skillicons.dev/icons?i=css" width="16px" style="vertical-align: middle;"/> Responsive Web Design</li>
         <li><img src="https://skillicons.dev/icons?i=materialui" width="16px" style="vertical-align: middle;"/> MUI</li>
         <li><img src="https://skillicons.dev/icons?i=tailwind" width="16px" style="vertical-align: middle;"/> Tailwind CSS</li>
-<!--         <li><img src="https://skillicons.dev/icons?i=fastapi" width="16px" style="vertical-align: middle;"/> RESTful APIs</li> -->
+        <li><img src="https://skillicons.dev/icons?i=fastapi" width="16px" style="vertical-align: middle;"/> RESTful APIs</li>
       </ul>
     </td>
     <td>
