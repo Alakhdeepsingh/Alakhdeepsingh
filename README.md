@@ -56,8 +56,8 @@
         <li><img src="https://skillicons.dev/icons?i=babel" width="16px" style="vertical-align: middle;"/> Babel</li>
         <li><img src="https://skillicons.dev/icons?i=git" width="16px" style="vertical-align: middle;"/> Git</li>
         <li><img src="https://skillicons.dev/icons?i=jest" width="16px" style="vertical-align: middle;"/> Unit Testing</li>
-<!--         <li>⚡ Performance Optimization</li> -->
-<!--         <li>📈 Scalability</li> -->
+        <li>⚡ Performance Optimization</li>
+        <li>📈 Scalability</li>
         <li>👥 Team Collaboration</li>
         <li>❓ Problem Solving</li>
         <li>📚 Continuous Learning</li>
