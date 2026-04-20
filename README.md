@@ -5,7 +5,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Full+Stack+MERN+Engineer+%F0%9F%94%A5;MongoDB+%7C+Express.js+%7C+React+%7C+Node.js;Next.js+%7C+TypeScript+%7C+Redux+%7C+REST+APIs;Building+scalable%2C+production-grade+systems;Crafting+interfaces+people+love+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Full+Stack+Engineer+%F0%9F%94%A5;MongoDB+%7C+Express.js+%7C+React+%7C+Node.js;Next.js+%7C+TypeScript+%7C+Redux+%7C+REST+APIs;Building+scalable%2C+production-grade+systems;Crafting+interfaces+people+love+%E2%9C%A8)](https://git.io/typing-svg)
 
 <br/>
 
@@ -116,88 +116,7 @@ const alakhdeep = {
 └──────────────────────────────────────────────────────────────────────────┘
 ```
 
----
 
-## 🚀 Featured Projects
-
-> 💡 Replace placeholders with your actual project names, screenshots, and links.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🛒 Full Stack E-Commerce Platform
-**MERN · JWT · Payment Gateway**
-
-- Role-based access control (Admin / User)
-- Cart, Wishlist, Order tracking system
-- Product search, filter & pagination
-- Admin dashboard with sales analytics
-- Razorpay / Stripe payment integration
-
-**`React`** **`Node.js`** **`Express`** **`MongoDB`** **`Redux`** **`Cloudinary`**
-
-[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Alakhdeepsingh)
-[![Live Demo](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://alakhportfolio.netlify.app/)
-
-</td>
-<td width="50%" valign="top">
-
-### 💬 Real-Time Chat Application
-**MERN · Socket.io · JWT Auth**
-
-- Real-time messaging with private & group rooms
-- Online presence & typing indicators
-- Message history persisted in MongoDB
-- File/image sharing via Cloudinary
-- Fully mobile-responsive design
-
-**`React`** **`Node.js`** **`Socket.io`** **`MongoDB`** **`Express`** **`JWT`**
-
-[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Alakhdeepsingh)
-[![Live Demo](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://alakhportfolio.netlify.app/)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📋 Project Management SaaS
-**Next.js · TypeScript · MongoDB**
-
-- Drag-and-drop Kanban board
-- Team collaboration & task assignments
-- Real-time progress updates (Socket.io)
-- Analytics dashboard & reporting
-
-**`Next.js`** **`TypeScript`** **`MongoDB`** **`Express`** **`Tailwind`**
-
-[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Alakhdeepsingh)
-[![Live Demo](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://alakhportfolio.netlify.app/)
-
-</td>
-<td width="50%" valign="top">
-
-### 🔐 Production-Ready Auth System
-**Node.js REST API · Security First**
-
-- JWT + Refresh Token rotation
-- Email verification & password reset (Nodemailer)
-- Rate limiting, input validation & sanitization
-- Full Swagger / OpenAPI documentation
-
-**`Node.js`** **`Express`** **`MongoDB`** **`JWT`** **`Nodemailer`**
-
-[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Alakhdeepsingh)
-[![Live Demo](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://alakhportfolio.netlify.app/)
-
-</td>
-</tr>
-</table>
-
-🔗 See all projects → **[alakhportfolio.netlify.app](https://alakhportfolio.netlify.app/)**
-
----
 
 ## 📊 GitHub Stats
 
@@ -213,14 +132,6 @@ const alakhdeep = {
 [![GitHub Streak](https://streak-stats.demolab.com?user=Alakhdeepsingh&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Alakhdeepsingh&theme=tokyonight&no-frame=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -253,9 +164,6 @@ const alakhdeep = {
 ## 🤝 Let's Build Something Great
 
 <div align="center">
-
-I'm actively seeking **Full Stack/Frontend** roles at companies where  
-**engineering craft, product impact, and growth** go hand in hand.
 
 If you're solving hard problems and need someone who can  
 **own the full stack end-to-end or frontend** — let's talk.
