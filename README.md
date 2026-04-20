@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>Alakhdeep Singh</h1>
-<h3>🚀 Full Stack MERN Engineer &nbsp;·&nbsp; React Specialist &nbsp;·&nbsp; Open Source Contributor</h3>
+<h3>🚀 Full Stack Engineer &nbsp;·&nbsp; React Specialist &nbsp;·&nbsp; Open Source Contributor</h3>
 
 <br/>
 
@@ -24,7 +24,7 @@
 
 ```javascript
 const alakhdeep = {
-  role        : "Full Stack Engineer — MERN",
+  role        : "Full Stack Engineer",
   location    : "India 🇮🇳",
   stack       : {
     frontend  : ["React.js", "Next.js", "TypeScript", "Redux", "Tailwind CSS"],
@@ -254,11 +254,11 @@ const alakhdeep = {
 
 <div align="center">
 
-I'm actively seeking **Full Stack / MERN Engineer** roles at companies where  
+I'm actively seeking **Full Stack/Frontend** roles at companies where  
 **engineering craft, product impact, and growth** go hand in hand.
 
 If you're solving hard problems and need someone who can  
-**own the full stack end-to-end** — let's talk.
+**own the full stack end-to-end or frontend** — let's talk.
 
 <br/>
 
