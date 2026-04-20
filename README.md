@@ -1,125 +1,156 @@
-<h1 align="center"> Hi 👋, I'm <a href="https://alakhdeepsingh.github.io/Portfolio/" target="blank">Alakhdeep Singh </a> </h1>
-<h3 align="center">A passionate Frontend Developer from India</h3>
+<div align="center">
 
-#### 
-<!-- <img src="https://img.shields.io/badge/-Full stack%20 MERN Developer-blue?&style=for-the-badge"/>    <img src="https://img.shields.io/badge/-Frontend%20 ReactJS Developer-red?&style=for-the-badge"/>     <img src="https://img.shields.io/badge/-Backend NodeJS ExpressJS Developer-green?&style=for-the-badge"/> -->
-<!-- <img src="https://img.shields.io/badge/-DataStructures & Algorithms-green?&style=for-the-badge"/> -->
+```
+ █████╗ ██╗      █████╗ ██╗  ██╗██╗  ██╗██████╗ ███████╗███████╗██████╗
+██╔══██╗██║     ██╔══██╗██║ ██╔╝██║  ██║██╔══██╗██╔════╝██╔════╝██╔══██╗
+███████║██║     ███████║█████╔╝ ███████║██║  ██║█████╗  █████╗  ██████╔╝
+██╔══██║██║     ██╔══██║██╔═██╗ ██╔══██║██║  ██║██╔══╝  ██╔══╝  ██╔═══╝
+██║  ██║███████╗██║  ██║██║  ██╗██║  ██║██████╔╝███████╗███████╗██║
+╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚══════╝╚══════╝╚═╝
+```
 
-<!-- ![GitHub followers](https://img.shields.io/github/followers/Alakhdeepsingh?label=Follow&style=social)
-<img src="https://komarev.com/ghpvc/?username=alakhdeepsingh&label=Profile%20views&color=0e75b6&style=flat" alt="alakhdeepsingh" /> -->
+# Alakhdeep Singh
 
- 
-- I am passionate Frontend Developer 💻 and Open Source Contributor, I have proficiency in ReactJS, Redux, TypeScript, JavaScript, HTML, CSS and TailwindCSS. I specialize in building dynamic, intuitive, user-friendly and scalable web applications that provide exceptional user experiences. With a solid foundation in frontend technologies, I am dedicated to crafting clean and efficient code.✨ Let's connect and discuss how I can contribute to your next front-end project.
+### Frontend Engineer · React Specialist · Open Source Contributor
 
-- 📓 You can find my **Resume** [here]()
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Building+Interfaces+That+People+Love+%E2%9C%A8;React+%7C+Next.js+%7C+TypeScript+%7C+Redux;Turning+designs+into+pixel-perfect+reality;Open+Source+%26+Community+Driven)](https://git.io/typing-svg)
 
-- 📫 **How to reach me** [Mail](mailto:alakhdeepsingh773@gmail.com) , [LinkedIn](https://linkedin.com/in/alakhdeepsingh)
-  
-- 👨‍💻 All of my **projects** are available at [My Portfolio](https://alakhportfolio.netlify.app/)
+<br/>
 
-- 💬 Ask me about **Frontend Development**
- 
-- 🤝 I’m looking to collaborate on **Projects and Hackathons**
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://alakhportfolio.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alakhdeepsingh)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alakhdeepsingh773@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alakhdeepsingh)
 
- 
-<!-- <a href="https://www.hackerrank.com/alakhdeep_7321" target="blank" >
-    <img align="left" src="https://img.shields.io/badge/Hackerrank-darkgreen?style=for-the-badge&logo=hackerrank&logoColor=white"  height="30" width="140"/>
-  </a> -->
+</div>
 
- ## Skills 🎯
+---
 
-<table style="width: 90%;">
-  <tr>
-    <td style="width: 40%; vertical-align: top;"><strong>💻 Front-end Technologies:</strong></td>
-    <td style="width: 50%; vertical-align: top;"><strong>🚀 Other Skills:</strong></td>
-  </tr>
-  <tr>
-    <td>
-      <ul>
-       <li><img src="https://skillicons.dev/icons?i=nextjs" width="16px" style="vertical-align: middle;"/> Next.js</li>
-        <li><img src="https://skillicons.dev/icons?i=react" width="16px" style="vertical-align: middle;"/> React.js</li>
-        <li><img src="https://skillicons.dev/icons?i=redux" width="16px" style="vertical-align: middle;"/> Redux</li>
-        <li><img src="https://skillicons.dev/icons?i=js" width="16px" style="vertical-align: middle;"/> JavaScript (ES6+)</li>
-        <li><img src="https://skillicons.dev/icons?i=ts" width="16px" style="vertical-align: middle;"/> TypeScript</li>
-        <li><img src="https://skillicons.dev/icons?i=html" width="16px" style="vertical-align: middle;"/> HTML5</li>
-        <li><img src="https://skillicons.dev/icons?i=css" width="16px" style="vertical-align: middle;"/> CSS3</li>
-        <li><img src="https://skillicons.dev/icons?i=css" width="16px" style="vertical-align: middle;"/> Responsive Web Design</li>
-        <li><img src="https://skillicons.dev/icons?i=materialui" width="16px" style="vertical-align: middle;"/> MUI</li>
-        <li><img src="https://skillicons.dev/icons?i=tailwind" width="16px" style="vertical-align: middle;"/> Tailwind CSS</li>
-        <li><img src="https://skillicons.dev/icons?i=fastapi" width="16px" style="vertical-align: middle;"/> RESTful APIs</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li><img src="https://skillicons.dev/icons?i=vercel" width="16px" style="vertical-align: middle;"/> Vercel</li>
-        <li><img src="https://skillicons.dev/icons?i=webpack" width="16px" style="vertical-align: middle;"/> Webpack</li>
-        <li><img src="https://skillicons.dev/icons?i=babel" width="16px" style="vertical-align: middle;"/> Babel</li>
-        <li><img src="https://skillicons.dev/icons?i=git" width="16px" style="vertical-align: middle;"/> Git</li>
-        <li><img src="https://skillicons.dev/icons?i=jest" width="16px" style="vertical-align: middle;"/> Unit Testing</li>
-        <li>⚡ Performance Optimization</li>
-        <li>📈 Scalability</li>
-        <li>👥 Team Collaboration</li>
-        <li>❓ Problem Solving</li>
-        <li>📚 Continuous Learning</li>
-        <li>⏰ Time Management</li>
-      </ul>
-    </td>
-  </tr>
-</table>
- 
- <!-- <h2> &nbsp;My Tech Stack</h2>
+## 🧭 About Me
 
-- Programming languages : <br />
-    [![JavaScript](	https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-    [![TypeScript](	https://img.shields.io/badge/TypeScript-0081CB?style=flat&logo=typeScript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/TypeScript)
-    [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://www.cplusplus.com/)
-    
-- Frontend : <br />
-    [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://www.w3.org/html/)
-    [![CSS](https://img.shields.io/badge/CSS-blue?style=flat&logo=css&logoColor=white)](https://www.w3.org/css/)
-    [![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)](https://sass-lang.com/)
-    [![TailwindCSS](https://img.shields.io/badge/tailwindcss-blue?style=flat&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
-    [![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-    [![Redux](https://img.shields.io/badge/Redux-5C2D91?style=flat&logo=redux&logoColor=white)](https://redux.org/)
-    [![Next.js](https://img.shields.io/badge/Next.js-20232A?style=flat&logo=nextjs&logoColor=61DAFB)](https://nextjs.org/)
-  
-   <!--  [![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=material-ui&logoColor=white)](https://material-ui.com/) -->
-<!--     [![Angular](https://img.shields.io/badge/Angular-E34F26?style=flat&logo=angular&logoColor=white)](https://angular.io/) -->
-<!--     [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)](https://getbootstrap.com) -->
-    
-<!--  - Backend : <br />
-    [![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)](https://nodejs.org)
-    [![ExpressJS](https://img.shields.io/badge/Express.js-43853D?style=flat&logo=express.js&logoColor=white)](https://expressjs.org)
- 
-  
-- Databases :  <br />
-    [![Firebase](https://img.shields.io/badge/-Firebase-2C2D72?style=flat&logo=firebase&logoColor=FFCA28)](https://firebase.google.com/)
-    [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
- 
-- IDE & Tools : <br />
-    [![VS Code](http://img.shields.io/badge/-VS%20Code-5C2D91?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-    [![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)](https://heroku.com)
-    [![Vercel](https://img.shields.io/badge/Vercel-black?style=flat&logo=vercel&logoColor=white)](https://vercel.com/)
-    [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/) -->
+> *"Great UI is invisible — it just works, and feels right."*
 
+I'm a **Frontend Engineer** from **India 🇮🇳** with a sharp eye for design and a deep love for building things that scale. I specialize in crafting **fast, accessible, and beautiful** web interfaces using the modern React ecosystem.
 
-<!-- <h3 align="left">Languages and Tools:</h3>
-<p align="left"><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a><a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-  <a href="https://cloudinary.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Alakhdeepsingh/Alakhdeepsingh/blob/main/cloudinary.png" alt="express" width="40" height="40"/> </a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a><a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a><a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a><a href="https://www.redhat.com/en/topics/api/what-is-a-rest-api" target="_blank" rel="noreferrer"> <img src=https://github.com/Alakhdeepsingh/Alakhdeepsingh/blob/main/restapi.png alt="restapi" width="40" height="40"/> </a><a href="https://michalsnik.github.io/aos/" target="_blank" rel="noreferrer"> <img src="https://github.com/Alakhdeepsingh/Alakhdeepsingh/blob/main/animate%20on%20scroll.png" width="50" height="40"/> 
-</a> -->
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alakhdeepsingh&show_icons=true&locale=en&layout=compact" alt="alakhdeepsingh" /><img height="200em" src="https://github-readme-stats.vercel.app/api?username=Alakhdeepsingh&theme=buefy&show_icons=true" /> 
- <!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alakhdeepsingh&" alt="alakhdeepsingh" /> -->
- <hr>
-<p align="center">
-  <i>Take a look at my repositories and let's get in touch!</i>
-  <div align="center">
- <h2>Connect with me 🤝</h2>
-    <a href="https://www.linkedin.com/in/alakhdeepsingh/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" width="120" alt="LinkedIn">
-    </a>
-    <a href="mailto:alakhdeepsingh773@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" width="100" alt="Gmail">
-    </a>
-  </div>
-</p>
+- 🔭 Currently focused on **Next.js**, **TypeScript**, and component architecture patterns
+- 🌱 Exploring **Web Performance**, **Micro-frontends**, and **Design Systems**
+- 🤝 Open to collaborating on **impactful projects and hackathons**
+- 💡 I believe clean code is as important as clean UI
+- 📬 Reach me at **alakhdeepsingh773@gmail.com**
+
+---
+
+## 🛠️ Tech Stack
+
+### Core — Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Styling
+
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+
+### Tooling & DevOps
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alakhdeepsingh&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alakhdeepsingh&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Alakhdeepsingh&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Alakhdeepsingh&theme=tokyonight&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Alakhdeep's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Alakhdeepsingh&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🌟 What I Bring to the Table
+
+```
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│   ⚡  Performance-first mindset — Lighthouse scores      │
+│       that make teams proud                              │
+│                                                          │
+│   🎨  Design-to-code fluency — from Figma to            │
+│       pixel-perfect React                                │
+│                                                          │
+│   🧱  Scalable architecture — reusable component         │
+│       systems and clean state management                 │
+│                                                          │
+│   🔍  Accessibility — inclusive UIs that work for        │
+│       everyone                                           │
+│                                                          │
+│   🚢  Ship-it discipline — delivering on time,           │
+│       every time                                         │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+If you're building something great and need a frontend engineer who cares about both craft and impact — let's talk.
+
+[![Portfolio →](https://img.shields.io/badge/View%20Portfolio-%236366F1.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://alakhportfolio.netlify.app/)
+[![LinkedIn →](https://img.shields.io/badge/Connect%20on%20LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alakhdeepsingh)
+[![Email →](https://img.shields.io/badge/Send%20a%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alakhdeepsingh773@gmail.com)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=alakhdeepsingh&color=6366f1&style=flat-square&label=Profile+Views)
+
+<br/>
+
+*⭐ If you like my work, consider starring my repos — it really helps!*
+
+</div>
+
+---
+
+<div align="center">
+  <sub>Crafted with ❤️ from India 🇮🇳 · Always building, always learning</sub>
+</div>
